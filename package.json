@@ -1,0 +1,23 @@
+{
+  "name": "mealo-menu-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node scripts/scrape.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocks06/mealo-menu-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rocks06/mealo-menu-scraper/issues"
+  },
+  "homepage": "https://github.com/rocks06/mealo-menu-scraper#readme",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
