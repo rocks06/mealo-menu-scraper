@@ -1,0 +1,174 @@
+{
+  "date": "2026-02-25",
+  "period": "breakfast",
+  "hall": "Roussell Dining Hall",
+  "stations": [
+    {
+      "station": "Exhibition",
+      "sortOrder": 0,
+      "items": [
+        {
+          "id": "699e5df8190d6bcc98cf549e",
+          "name": "Omelet Bar",
+          "portion": "1 plate",
+          "ingredients": "Water",
+          "calories": null,
+          "macros": {
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          "allergens": [],
+          "tags": []
+        },
+        {
+          "id": "699e5df8190d6bcc98cf5729",
+          "name": "Diced Onions",
+          "portion": "1 tbsp",
+          "ingredients": "Yellow Onions",
+          "calories": 0,
+          "macros": {
+            "protein_g": 0,
+            "carbs_g": 1,
+            "fat_g": 0
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "699e5df7190d6bcc98cf4bc9",
+          "name": "Chopped Green Bell Pepper",
+          "portion": "1 tbsp",
+          "ingredients": "Green Bell Peppers",
+          "calories": null,
+          "macros": {
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "699e5df9190d6bcc98cf61ea",
+          "name": "Scrambled Eggs",
+          "portion": "2 ounce",
+          "ingredients": "Liquid Egg^",
+          "calories": 80,
+          "macros": {
+            "protein_g": 7,
+            "carbs_g": 1,
+            "fat_g": 6
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "699e5df7190d6bcc98cf4da5",
+          "name": "Shredded Monterey Jack Cheese",
+          "portion": "1 tbsp",
+          "ingredients": "Monterey Jack Cheese^",
+          "calories": 25,
+          "macros": {
+            "protein_g": 2,
+            "carbs_g": 0,
+            "fat_g": 2
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "699e5df9190d6bcc98cf64b8",
+          "name": "Sliced Mushrooms",
+          "portion": "1 tbsp",
+          "ingredients": "Mushrooms",
+          "calories": null,
+          "macros": {
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        }
+      ]
+    },
+    {
+      "station": "Grill",
+      "sortOrder": 0,
+      "items": [
+        {
+          "id": "699e5df9190d6bcc98cf610a",
+          "name": "Scrambled Eggs",
+          "portion": "1/2 cup",
+          "ingredients": "Liquid Egg^, Canola Oil",
+          "calories": 210,
+          "macros": {
+            "protein_g": 14,
+            "carbs_g": 1,
+            "fat_g": 16
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "699e5df9190d6bcc98cf639b",
+          "name": "Chef's Choice",
+          "portion": "1 tsp",
+          "ingredients": "Water",
+          "calories": null,
+          "macros": {
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          "allergens": [],
+          "tags": []
+        },
+        {
+          "id": "699e5df8190d6bcc98cf56a5",
+          "name": "Scrambled Egg Whites",
+          "portion": "1/2 cup",
+          "ingredients": "Liquid Egg White^, Fat Free Milk^, Cooking Spray^",
+          "calories": 60,
+          "macros": {
+            "protein_g": 12,
+            "carbs_g": 1,
+            "fat_g": 0
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        }
+      ]
+    }
+  ]
+}
