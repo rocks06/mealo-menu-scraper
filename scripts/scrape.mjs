@@ -30,7 +30,7 @@ function pickNutrient(item, name) {
     return hit ? toNumber(hit.valueNumeric ?? hit.value) : null;
 }
 
-function normalizeMenu(raw, period) {
+function normalizeMenu(raw) {
     const cats = raw?.period?.categories || [];
     return cats.map((c) => ({
         station: c.name || "Unknown",
@@ -98,8 +98,8 @@ async function scrapeOne(dateStr, period) {
         viewport: { width: 1280, height: 800 },
         locale: "en-US",
     });
-    const page = await context.newPage();
 
+    const page = await context.newPage();
     const cap = await captureMenuJson(page, dateStr, period);
 
     console.log(`Opening ${url}`);
@@ -120,28 +120,45 @@ async function scrapeOne(dateStr, period) {
 
 async function main() {
     const dateStr = process.env.DATE || todayET();
-    const outDir = path.join("public", "menu", dateStr);
-    ensureDir(outDir);
+
+    const datedDir = path.join("public", "menu", dateStr);
+    const latestDir = path.join("public", "menu", "latest");
+
+    ensureDir(datedDir);
+    ensureDir(latestDir);
 
     for (const period of PERIODS) {
         const raw = await scrapeOne(dateStr, period);
+        const stations = normalizeMenu(raw);
 
+        const cleanPayload = {
+            date: dateStr,
+            period,
+            hall: "Roussell Dining Hall",
+            stations,
+        };
+
+        // dated outputs
         fs.writeFileSync(
-            path.join(outDir, `raw-${period}.json`),
+            path.join(datedDir, `raw-${period}.json`),
             JSON.stringify(raw, null, 2)
         );
-
-        const clean = normalizeMenu(raw, period);
         fs.writeFileSync(
-            path.join(outDir, `${period}.json`),
-            JSON.stringify(
-                { date: dateStr, period, hall: "Roussell Dining Hall", stations: clean },
-                null,
-                2
-            )
+            path.join(datedDir, `${period}.json`),
+            JSON.stringify(cleanPayload, null, 2)
         );
 
-        console.log(`Saved ${period}.json + raw-${period}.json`);
+        // latest outputs (overwrite each run)
+        fs.writeFileSync(
+            path.join(latestDir, `raw-${period}.json`),
+            JSON.stringify(raw, null, 2)
+        );
+        fs.writeFileSync(
+            path.join(latestDir, `${period}.json`),
+            JSON.stringify(cleanPayload, null, 2)
+        );
+
+        console.log(`Saved dated + latest for ${period}`);
     }
 }
 
