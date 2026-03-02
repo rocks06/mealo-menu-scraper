@@ -8,7 +8,7 @@
       "sortOrder": 1,
       "items": [
         {
-          "id": "69a5a88a190d6bcc98d6d9ed",
+          "id": "69a5fce6190d6bcc98ee72f0",
           "name": "Deli Sandwich Bar",
           "portion": "8 ounce",
           "ingredients": "Water, Ciabatta Bun^, Black Forest Ham^, Corned Beef^, Genoa Salami^, Roast Beef^, Turkey Breast^, Sauerkraut^, Diced Chicken^, Croissant^, Tuna^, Yellow Mustard^, Elbow Macaroni^, Light Mayonnaise^, Potatoes, American Cheese^, Cheddar Cheese^, Red Onions, Swiss Cheese^, Tomatoes, Turkey Pastrami^, Mayonnaise^, Lettuce, Pepper Jack Cheese^, Provolone Cheese^, Fat Free Italian Dressing^, Pickle Relish^, Tomatoes, Yellow Onions, Egg, Lettuce Leaf, Celery, Green Bell Peppers, Red Bell Peppers, Spinach Herb Tortilla^, Tomato Basil Tortilla^, Marble Rye Bread^, Egg, White Bread^, Whole Wheat Bread^, Egg, Pimentos^, Parsley, Parsley, Yellow Onions, Kosher Salt^, White Pepper, Black Pepper, Oregano",
@@ -48,7 +48,7 @@
       "sortOrder": 1,
       "items": [
         {
-          "id": "69a5a88a190d6bcc98d6d9f5",
+          "id": "69a5fce6190d6bcc98ee72f2",
           "name": "Roast Beef",
           "portion": "1 ounce",
           "ingredients": "Beef Round, Black Pepper, Garlic, Rosemary",
@@ -66,7 +66,7 @@
           ]
         },
         {
-          "id": "69a5a88a190d6bcc98d6d9fb",
+          "id": "69a5fce6190d6bcc98ee72f5",
           "name": "Mashed Potatoes",
           "portion": "3/4 cup",
           "ingredients": "Potatoes, Half & Half^, Unsalted Butter, Olive Oil, Parsley, Shallots, Garlic, Kosher Salt^, White Pepper",
@@ -86,7 +86,7 @@
           ]
         },
         {
-          "id": "69a5a88a190d6bcc98d6da01",
+          "id": "69a5fce6190d6bcc98ee72f8",
           "name": "Asparagus",
           "portion": "7 each",
           "ingredients": "Water, Asparagus, Kosher Salt^",
@@ -103,7 +103,7 @@
           ]
         },
         {
-          "id": "69a5a88a190d6bcc98d6da02",
+          "id": "69a5fce6190d6bcc98ee72fb",
           "name": "Marinated Tofu",
           "portion": "1/4 cup",
           "ingredients": "Tofu^, Water, Less Sodium Gluten Free Soy Sauce^, Green Onions, Cornstarch, Unseasoned Rice Wine Vinegar, Sriracha Hot Sauce^",
@@ -124,7 +124,7 @@
           ]
         },
         {
-          "id": "69a5a88a190d6bcc98d6da06",
+          "id": "69a5fce6190d6bcc98ee72fd",
           "name": "Steamed Cauliflower",
           "portion": "1/2 cup",
           "ingredients": "Cauliflower, Canola Oil, Salt, Ground Paprika^",
@@ -147,7 +147,7 @@
       "sortOrder": 1,
       "items": [
         {
-          "id": "69a5a88a190d6bcc98d6da0c",
+          "id": "69a5fce6190d6bcc98ee7302",
           "name": "Grilled Chicken Thigh",
           "portion": "3 ounce",
           "ingredients": "Chicken Thigh, Canola Oil, Kosher Salt^, Black Pepper",
@@ -164,7 +164,7 @@
           ]
         },
         {
-          "id": "69a5a88a190d6bcc98d6da11",
+          "id": "69a5fce6190d6bcc98ee7305",
           "name": "White Rice",
           "portion": "1/2 cup",
           "ingredients": "Water, Long Grain White Rice^, Canola Oil, Salt",
@@ -182,7 +182,7 @@
           ]
         },
         {
-          "id": "69a5a88a190d6bcc98d6da19",
+          "id": "69a5fce6190d6bcc98ee7307",
           "name": "Sauteed Mushrooms",
           "portion": "1/2 cup",
           "ingredients": "Mushrooms, Garlic, Kosher Salt^, Black Pepper, Canola Oil",
@@ -201,7 +201,7 @@
           ]
         },
         {
-          "id": "69a5a88a190d6bcc98d6da1c",
+          "id": "69a5fce6190d6bcc98ee730a",
           "name": "Fresh Green Beans",
           "portion": "1/2 cup",
           "ingredients": "Green Beans",
@@ -218,7 +218,7 @@
           ]
         },
         {
-          "id": "69a5a88a190d6bcc98d6da21",
+          "id": "69a5fce6190d6bcc98ee730c",
           "name": "Garden Salad",
           "portion": "1 serving(s)",
           "ingredients": "Chopped Lettuce, Cucumber",
@@ -241,7 +241,7 @@
       "sortOrder": 1,
       "items": [
         {
-          "id": "69a5a88c190d6bcc98d6ef15",
+          "id": "69a5fce6190d6bcc98ee7b0f",
           "name": "Hamburger on Bun",
           "portion": "1 sandwich",
           "ingredients": "Beef Patty, Hamburger Bun^",
@@ -261,7 +261,7 @@
           ]
         },
         {
-          "id": "69a5a88c190d6bcc98d6eebf",
+          "id": "69a5fce6190d6bcc98ee7ad1",
           "name": "Veggie Burger",
           "portion": "1 serving(s)",
           "ingredients": "Black Bean Burger^",
@@ -288,7 +288,7 @@
           ]
         },
         {
-          "id": "69a5a88c190d6bcc98d6eebb",
+          "id": "69a5fce6190d6bcc98ee7ace",
           "name": "French Fries",
           "portion": "1/2 cup",
           "ingredients": "French Fries^",
@@ -308,7 +308,7 @@
       "sortOrder": 1,
       "items": [
         {
-          "id": "69a5a88a190d6bcc98d6d9c3",
+          "id": "69a5fce6190d6bcc98ee72d0",
           "name": "Lettuce Leaf",
           "portion": "1 each",
           "ingredients": "Lettuce Leaf",
@@ -325,7 +325,7 @@
           ]
         },
         {
-          "id": "69a5a88a190d6bcc98d6d9bf",
+          "id": "69a5fce6190d6bcc98ee72cd",
           "name": "Sliced Tomatoes",
           "portion": "2 slice",
           "ingredients": "Tomatoes",
@@ -343,7 +343,7 @@
           ]
         },
         {
-          "id": "69a5a88a190d6bcc98d6d9bb",
+          "id": "69a5fce6190d6bcc98ee72c9",
           "name": "Dill Pickle Slices",
           "portion": "4 each",
           "ingredients": "Pickles^",
@@ -362,7 +362,7 @@
           ]
         },
         {
-          "id": "69a5a88a190d6bcc98d6d9b5",
+          "id": "69a5fce6190d6bcc98ee72c7",
           "name": "Sliced Red Onion",
           "portion": "1 slice",
           "ingredients": "Red Onions",
@@ -386,7 +386,7 @@
       "sortOrder": 1,
       "items": [
         {
-          "id": "69a5a88c190d6bcc98d6eec2",
+          "id": "69a5fce6190d6bcc98ee7ad4",
           "name": "Cheese Pizza",
           "portion": "1 slice",
           "ingredients": "Pizza Dough^, Part Skim Mozzarella Cheese^, Tomatoes^, Canola Oil, Parmesan Cheese^, Kosher Salt^, Garlic, Garlic, Basil, Black Pepper, Basil, Parsley, Oregano, Red Pepper",
@@ -411,7 +411,7 @@
           ]
         },
         {
-          "id": "69a5a88c190d6bcc98d6eec8",
+          "id": "69a5fce6190d6bcc98ee7ad6",
           "name": "Pepperoni Pizza",
           "portion": "1 slice",
           "ingredients": "Pizza Dough^, Part Skim Mozzarella Cheese^, Tomatoes^, Pepperoni^, Canola Oil, Parmesan Cheese^, Kosher Salt^, Garlic, Garlic, Basil, Black Pepper, Basil, Parsley, Oregano, Red Pepper",
@@ -439,7 +439,7 @@
           ]
         },
         {
-          "id": "69a5a88c190d6bcc98d6eed8",
+          "id": "69a5fce6190d6bcc98ee7ae4",
           "name": "Vegetable Pizza",
           "portion": "1 slice",
           "ingredients": "Pizza Dough^, Tomatoes^, Parmesan Cheese^, Part Skim Mozzarella Cheese^, Green Bell Peppers, Mushrooms, Yellow Onions, Canola Oil, Kosher Salt^, Basil, Garlic, Black Pepper",
@@ -466,7 +466,7 @@
           ]
         },
         {
-          "id": "69a5a88c190d6bcc98d6eed2",
+          "id": "69a5fce6190d6bcc98ee7ade",
           "name": "Crushed Red Pepper",
           "portion": "1 tsp",
           "ingredients": "Red Pepper",
@@ -483,7 +483,7 @@
           ]
         },
         {
-          "id": "69a5a88c190d6bcc98d6eed5",
+          "id": "69a5fce6190d6bcc98ee7ae1",
           "name": "Dried Oregano",
           "portion": "1 tsp",
           "ingredients": "Oregano",
@@ -500,7 +500,7 @@
           ]
         },
         {
-          "id": "69a5a88c190d6bcc98d6eece",
+          "id": "69a5fce6190d6bcc98ee7ada",
           "name": "Grated Parmesan Cheese",
           "portion": "1 tsp",
           "ingredients": "Parmesan Cheese^",
@@ -523,7 +523,7 @@
       "sortOrder": 1,
       "items": [
         {
-          "id": "69a5a88c190d6bcc98d6eedc",
+          "id": "69a5fce6190d6bcc98ee7ae8",
           "name": "Crostini",
           "portion": "1 slice",
           "ingredients": "French Bread^, Canola Oil",
@@ -544,7 +544,7 @@
           ]
         },
         {
-          "id": "69a5a88c190d6bcc98d6ef08",
+          "id": "69a5fce6190d6bcc98ee7b08",
           "name": "Herbed Penne Pasta",
           "portion": "1/2 cup",
           "ingredients": "Water, Whole Grain Penne, Extra Virgin Olive Oil, Parsley, Basil, Oregano",
@@ -563,7 +563,7 @@
           ]
         },
         {
-          "id": "69a5a88c190d6bcc98d6ef0d",
+          "id": "69a5fce6190d6bcc98ee7b0b",
           "name": "Marinara Sauce",
           "portion": "1/2 cup",
           "ingredients": "Tomatoes^, Tomato Puree^, Yellow Onions, Olive Oil, Sea Salt, Garlic, Basil, Oregano, Red Pepper",
@@ -583,7 +583,7 @@
           ]
         },
         {
-          "id": "69a5a88c190d6bcc98d6ef12",
+          "id": "69a5fce6190d6bcc98ee7b0d",
           "name": "Alfredo Sauce",
           "portion": "1 ladle-2oz",
           "ingredients": "Whole Milk^, Asiago Cheese^, Water, Cornstarch, Garlic, Black Pepper",
