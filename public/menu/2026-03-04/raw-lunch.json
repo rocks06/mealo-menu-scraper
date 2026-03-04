@@ -3,17 +3,17 @@
   "locationId": "58739aa53191a200e44eaaaf",
   "date": "2026-03-04",
   "period": {
-    "id": "69a810f0492f9a9e2e630a14",
+    "id": "69a84929492f9a9e2e65f094",
     "name": "Lunch",
     "slug": null,
     "categories": [
       {
-        "id": "69a810f0492f9a9e2e6309f9",
+        "id": "69a84928492f9a9e2e65f011",
         "name": "Deli CCS",
         "sortOrder": 1,
         "items": [
           {
-            "id": "69a81330190d6bcc98ae6336",
+            "id": "69a84b73190d6bcc984871f8",
             "name": "Deli Sandwich Bar",
             "mrn": 27584,
             "rev": null,
@@ -330,12 +330,12 @@
         ]
       },
       {
-        "id": "69a810f0492f9a9e2e6309fa",
+        "id": "69a84928492f9a9e2e65f012",
         "name": "Comfort",
         "sortOrder": 1,
         "items": [
           {
-            "id": "69a81330190d6bcc98ae633a",
+            "id": "69a84b73190d6bcc984871fc",
             "name": "Grilled Chicken Alfredo ",
             "mrn": 106416,
             "rev": null,
@@ -546,7 +546,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae632e",
+            "id": "69a84b73190d6bcc984871f1",
             "name": "Sauteed Squash",
             "mrn": 103200,
             "rev": null,
@@ -733,7 +733,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae6333",
+            "id": "69a84b73190d6bcc984871f6",
             "name": "Crispy Baked Tofu",
             "mrn": 41001,
             "rev": null,
@@ -960,7 +960,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae6330",
+            "id": "69a84b73190d6bcc984871f4",
             "name": "Steamed Green Beans",
             "mrn": 5279,
             "rev": null,
@@ -1141,12 +1141,12 @@
         ]
       },
       {
-        "id": "69a810f0492f9a9e2e6309fb",
+        "id": "69a84928492f9a9e2e65f013",
         "name": "Exhibition",
         "sortOrder": 1,
         "items": [
           {
-            "id": "69a81330190d6bcc98ae66ea",
+            "id": "69a84b73190d6bcc98487758",
             "name": "Asian BBQ Glazed Pork",
             "mrn": 57290,
             "rev": null,
@@ -1405,7 +1405,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae66ec",
+            "id": "69a84b73190d6bcc9848775f",
             "name": "Vegetable Fried Rice",
             "mrn": 149867,
             "rev": null,
@@ -1640,7 +1640,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae66ee",
+            "id": "69a84b73190d6bcc98487764",
             "name": "Oyster Stir Fry Sauce",
             "mrn": 107142,
             "rev": null,
@@ -1859,7 +1859,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae6708",
+            "id": "69a84b73190d6bcc98487794",
             "name": "Vegetable Egg Roll",
             "mrn": 27213,
             "rev": null,
@@ -2110,7 +2110,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae670a",
+            "id": "69a84b73190d6bcc98487799",
             "name": "Garden Salad",
             "mrn": 28513,
             "rev": null,
@@ -2291,12 +2291,12 @@
         ]
       },
       {
-        "id": "69a810f0492f9a9e2e6309fc",
+        "id": "69a84928492f9a9e2e65f014",
         "name": "Grill",
         "sortOrder": 1,
         "items": [
           {
-            "id": "69a81330190d6bcc98ae66f1",
+            "id": "69a84b73190d6bcc98487767",
             "name": "Loaded Fries",
             "mrn": 112145,
             "rev": null,
@@ -2523,7 +2523,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae66f4",
+            "id": "69a84b73190d6bcc9848776d",
             "name": "Pork Bacon",
             "mrn": 608,
             "rev": null,
@@ -2702,7 +2702,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae66f7",
+            "id": "69a84b73190d6bcc98487770",
             "name": "Cheese Sauce",
             "mrn": 67353,
             "rev": null,
@@ -2915,12 +2915,12 @@
         ]
       },
       {
-        "id": "69a810f0492f9a9e2e6309f8",
+        "id": "69a84928492f9a9e2e65f010",
         "name": "Grill Condiments",
         "sortOrder": 1,
         "items": [
           {
-            "id": "69a81330190d6bcc98ae61c1",
+            "id": "69a84b73190d6bcc98487090",
             "name": "Lettuce Leaf",
             "mrn": 14957,
             "rev": null,
@@ -3099,7 +3099,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae61b4",
+            "id": "69a84b73190d6bcc9848708c",
             "name": "Sliced Tomatoes",
             "mrn": 47955,
             "rev": null,
@@ -3286,7 +3286,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae61a7",
+            "id": "69a84b73190d6bcc9848708a",
             "name": "Dill Pickle Slices",
             "mrn": 63438,
             "rev": null,
@@ -3481,7 +3481,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae6198",
+            "id": "69a84b73190d6bcc98487088",
             "name": "Sliced Red Onion",
             "mrn": 46017,
             "rev": null,
@@ -3670,12 +3670,12 @@
         ]
       },
       {
-        "id": "69a810f0492f9a9e2e6309fd",
+        "id": "69a84928492f9a9e2e65f015",
         "name": "Pizza CCS",
         "sortOrder": 1,
         "items": [
           {
-            "id": "69a81330190d6bcc98ae66fa",
+            "id": "69a84b73190d6bcc98487777",
             "name": "Cheese Pizza",
             "mrn": 103574,
             "rev": null,
@@ -3918,7 +3918,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae66fc",
+            "id": "69a84b73190d6bcc9848777b",
             "name": "Pepperoni Pizza",
             "mrn": 103896,
             "rev": null,
@@ -4185,7 +4185,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae66fd",
+            "id": "69a84b73190d6bcc98487780",
             "name": "Crushed Red Pepper",
             "mrn": 63317,
             "rev": null,
@@ -4364,7 +4364,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae6704",
+            "id": "69a84b73190d6bcc9848778b",
             "name": "Dried Oregano",
             "mrn": 76771,
             "rev": null,
@@ -4543,7 +4543,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae6700",
+            "id": "69a84b73190d6bcc98487785",
             "name": "Grated Parmesan Cheese",
             "mrn": 62346,
             "rev": null,
@@ -4722,7 +4722,7 @@
             ]
           },
           {
-            "id": "69a81330190d6bcc98ae6706",
+            "id": "69a84b73190d6bcc98487790",
             "name": "Vegetable Pizza",
             "mrn": 1387,
             "rev": null,
@@ -4943,12 +4943,12 @@
         ]
       },
       {
-        "id": "69a810f0492f9a9e2e6309fe",
+        "id": "69a84928492f9a9e2e65f016",
         "name": "Pasta CCS",
         "sortOrder": 1,
         "items": [
           {
-            "id": "69a81332190d6bcc98ae78fd",
+            "id": "69a84b75190d6bcc98488ecb",
             "name": "Herbed Penne Pasta",
             "mrn": 14387,
             "rev": null,
@@ -5143,7 +5143,7 @@
             ]
           },
           {
-            "id": "69a81332190d6bcc98ae7902",
+            "id": "69a84b75190d6bcc98488ecf",
             "name": "Marinara Sauce ",
             "mrn": 103930,
             "rev": null,
@@ -5346,7 +5346,7 @@
             ]
           },
           {
-            "id": "69a81332190d6bcc98ae78b4",
+            "id": "69a84b75190d6bcc98488ea3",
             "name": "Crostini",
             "mrn": 8286,
             "rev": null,
@@ -5557,7 +5557,7 @@
             ]
           },
           {
-            "id": "69a81332190d6bcc98ae7906",
+            "id": "69a84b75190d6bcc98488ed2",
             "name": "Alfredo Sauce",
             "mrn": 32217,
             "rev": null,
@@ -5750,7 +5750,7 @@
   "closedOnDate": false,
   "status": {
     "label": "open",
-    "message": "Open. Closes at 10:30am.",
+    "message": "Open. Closes at 4:30pm.",
     "color": "green"
   }
 }
