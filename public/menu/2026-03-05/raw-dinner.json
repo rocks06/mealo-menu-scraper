@@ -3,17 +3,17 @@
   "locationId": "58739aa53191a200e44eaaaf",
   "date": "2026-03-05",
   "period": {
-    "id": "69a9708f492f9a9e2e752e76",
+    "id": "69a99ab5492f9a9e2e775e32",
     "name": "Dinner",
     "slug": null,
     "categories": [
       {
-        "id": "69a9708f492f9a9e2e752e62",
+        "id": "69a99ab4492f9a9e2e775e1e",
         "name": "Deli CCS",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69a964c1190d6bcc980db3c1",
+            "id": "69a99d05190d6bcc98a5ded6",
             "name": "Deli Sandwich Bar",
             "mrn": 27584,
             "rev": null,
@@ -166,9 +166,9 @@
               {
                 "id": null,
                 "name": "Saturated Fat + Trans Fat (g)",
-                "value": "10",
+                "value": "10+",
                 "uom": "g",
-                "valueNumeric": "10",
+                "valueNumeric": "10+",
                 "test": "test"
               }
             ],
@@ -302,14 +302,6 @@
                 "customIcons": []
               },
               {
-                "id": "67859fb5c625af07639264e6",
-                "name": "Tree Nuts*",
-                "icon": false,
-                "remoteFileName": null,
-                "sectorIconId": null,
-                "customIcons": []
-              },
-              {
                 "id": "67859fb5c625af07639264dc",
                 "name": "Wheat",
                 "icon": false,
@@ -330,12 +322,12 @@
         ]
       },
       {
-        "id": "69a9708f492f9a9e2e752e63",
+        "id": "69a99ab4492f9a9e2e775e1f",
         "name": "Comfort",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69a964c1190d6bcc980db425",
+            "id": "69a99d05190d6bcc98a5df61",
             "name": "Roasted Pork Loin",
             "mrn": 134902,
             "rev": null,
@@ -522,7 +514,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980db41f",
+            "id": "69a99d05190d6bcc98a5df57",
             "name": "Eggplant Creole",
             "mrn": 1009,
             "rev": null,
@@ -733,7 +725,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980db421",
+            "id": "69a99d05190d6bcc98a5df5b",
             "name": "White Rice",
             "mrn": 103814,
             "rev": null,
@@ -920,7 +912,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980db41b",
+            "id": "69a99d05190d6bcc98a5df54",
             "name": "Roasted Corn and Peppers",
             "mrn": 102289,
             "rev": null,
@@ -1123,7 +1115,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980db423",
+            "id": "69a99d05190d6bcc98a5df5e",
             "name": "Cornbread",
             "mrn": 575,
             "rev": null,
@@ -1344,12 +1336,12 @@
         ]
       },
       {
-        "id": "69a9708f492f9a9e2e752e64",
+        "id": "69a99ab4492f9a9e2e775e20",
         "name": "Exhibition",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69a964c1190d6bcc980db91b",
+            "id": "69a99d07190d6bcc98a5ec09",
             "name": "Barbeque Chicken",
             "mrn": 66918,
             "rev": null,
@@ -1568,7 +1560,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980db913",
+            "id": "69a99d07190d6bcc98a5ebfe",
             "name": "Cheesy Polenta",
             "mrn": 5555,
             "rev": null,
@@ -1779,7 +1771,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980db918",
+            "id": "69a99d07190d6bcc98a5ec05",
             "name": "Roasted Brussels Sprouts",
             "mrn": 33992,
             "rev": null,
@@ -1966,7 +1958,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980db916",
+            "id": "69a99d07190d6bcc98a5ec02",
             "name": "Southern Biscuit",
             "mrn": 3872,
             "rev": null,
@@ -2161,7 +2153,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980db91d",
+            "id": "69a99d07190d6bcc98a5ec0c",
             "name": "Garden Salad",
             "mrn": 28513,
             "rev": null,
@@ -2342,18 +2334,18 @@
         ]
       },
       {
-        "id": "69a9708f492f9a9e2e752e67",
+        "id": "69a99ab4492f9a9e2e775e23",
         "name": "Grill",
         "sortOrder": 2,
         "items": []
       },
       {
-        "id": "69a9708f492f9a9e2e752e60",
+        "id": "69a99ab4492f9a9e2e775e1c",
         "name": "Daily Grill",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69a964c1190d6bcc980db1c4",
+            "id": "69a99d05190d6bcc98a5dc0f",
             "name": "Veggie Burger",
             "mrn": 100441,
             "rev": null,
@@ -2612,7 +2604,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980db1bf",
+            "id": "69a99d05190d6bcc98a5dc09",
             "name": "French Fries",
             "mrn": 8414,
             "rev": null,
@@ -2776,12 +2768,12 @@
         ]
       },
       {
-        "id": "69a9708f492f9a9e2e752e61",
+        "id": "69a99ab4492f9a9e2e775e1d",
         "name": "Grill Condiments",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69a964c1190d6bcc980db285",
+            "id": "69a99d05190d6bcc98a5dd00",
             "name": "Lettuce Leaf",
             "mrn": 14957,
             "rev": null,
@@ -2960,7 +2952,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980db282",
+            "id": "69a99d05190d6bcc98a5dcfc",
             "name": "Sliced Tomatoes",
             "mrn": 47955,
             "rev": null,
@@ -3147,7 +3139,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980db27f",
+            "id": "69a99d05190d6bcc98a5dcf8",
             "name": "Dill Pickle Slices",
             "mrn": 63438,
             "rev": null,
@@ -3342,7 +3334,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980db27d",
+            "id": "69a99d05190d6bcc98a5dcf5",
             "name": "Sliced Red Onion",
             "mrn": 14918,
             "rev": null,
@@ -3531,12 +3523,12 @@
         ]
       },
       {
-        "id": "69a9708f492f9a9e2e752e65",
+        "id": "69a99ab4492f9a9e2e775e21",
         "name": "Pizza CCS",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69a964c1190d6bcc980dbd3b",
+            "id": "69a99d07190d6bcc98a5ee74",
             "name": "Cheese Pizza",
             "mrn": 103574,
             "rev": null,
@@ -3779,7 +3771,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980dbd3e",
+            "id": "69a99d07190d6bcc98a5ee78",
             "name": "Pepperoni Pizza",
             "mrn": 103896,
             "rev": null,
@@ -4046,7 +4038,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980dbd48",
+            "id": "69a99d07190d6bcc98a5ee88",
             "name": "Roasted Vegetable Pizza",
             "mrn": 27901,
             "rev": null,
@@ -4305,7 +4297,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980dbd40",
+            "id": "69a99d07190d6bcc98a5ee7c",
             "name": "Crushed Red Pepper",
             "mrn": 63317,
             "rev": null,
@@ -4484,7 +4476,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980dbd46",
+            "id": "69a99d07190d6bcc98a5ee84",
             "name": "Dried Oregano",
             "mrn": 76771,
             "rev": null,
@@ -4663,7 +4655,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980dbd44",
+            "id": "69a99d07190d6bcc98a5ee80",
             "name": "Grated Parmesan Cheese",
             "mrn": 62346,
             "rev": null,
@@ -4844,12 +4836,12 @@
         ]
       },
       {
-        "id": "69a9708f492f9a9e2e752e66",
+        "id": "69a99ab4492f9a9e2e775e22",
         "name": "Pasta CCS",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69a964c1190d6bcc980dbd54",
+            "id": "69a99d07190d6bcc98a5eea3",
             "name": "Crostini",
             "mrn": 8286,
             "rev": null,
@@ -5060,7 +5052,7 @@
             ]
           },
           {
-            "id": "69a964c1190d6bcc980dbd55",
+            "id": "69a99d07190d6bcc98a5eea5",
             "name": "Baked Pasta Al Forno",
             "mrn": 40405,
             "rev": null,
@@ -5293,7 +5285,7 @@
   "closedOnDate": false,
   "status": {
     "label": "open",
-    "message": "Open. Closes at 10:30am.",
+    "message": "Open. Closes at 4:30pm.",
     "color": "green"
   }
 }
