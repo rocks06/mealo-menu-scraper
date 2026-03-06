@@ -3,17 +3,17 @@
   "locationId": "58739aa53191a200e44eaaaf",
   "date": "2026-03-06",
   "period": {
-    "id": "69aac208492f9a9e2e86a023",
+    "id": "69ab2473492f9a9e2e8bb67a",
     "name": "Breakfast",
     "slug": null,
     "categories": [
       {
-        "id": "69aac207492f9a9e2e869fc1",
+        "id": "69ab2473492f9a9e2e8bb66b",
         "name": "Exhibition",
         "sortOrder": 0,
         "items": [
           {
-            "id": "69aab641190d6bcc984af223",
+            "id": "69ab4098190d6bcc9840de1b",
             "name": "Omelet Bar",
             "mrn": 128444,
             "rev": null,
@@ -175,7 +175,7 @@
             "filters": []
           },
           {
-            "id": "69aab641190d6bcc984af23d",
+            "id": "69ab4098190d6bcc9840de30",
             "name": "Chopped Spinach",
             "mrn": 47960,
             "rev": null,
@@ -354,7 +354,7 @@
             ]
           },
           {
-            "id": "69aab641190d6bcc984af243",
+            "id": "69ab4098190d6bcc9840de35",
             "name": " Diced Onions",
             "mrn": 13404,
             "rev": null,
@@ -541,7 +541,7 @@
             ]
           },
           {
-            "id": "69aab641190d6bcc984af22d",
+            "id": "69ab4098190d6bcc9840de22",
             "name": "Scrambled Eggs",
             "mrn": 51687,
             "rev": null,
@@ -728,7 +728,7 @@
             ]
           },
           {
-            "id": "69aab641190d6bcc984af249",
+            "id": "69ab4098190d6bcc9840de39",
             "name": "Chopped Green Bell Pepper",
             "mrn": 63065,
             "rev": null,
@@ -907,7 +907,7 @@
             ]
           },
           {
-            "id": "69aab641190d6bcc984af227",
+            "id": "69ab4098190d6bcc9840de1d",
             "name": "Shredded Monterey Jack Cheese",
             "mrn": 75797,
             "rev": null,
@@ -1088,12 +1088,12 @@
         ]
       },
       {
-        "id": "69aac207492f9a9e2e869fc2",
+        "id": "69ab2473492f9a9e2e8bb66c",
         "name": "Grill",
         "sortOrder": 0,
         "items": [
           {
-            "id": "69aab641190d6bcc984af239",
+            "id": "69ab4098190d6bcc9840de2d",
             "name": "Scrambled Eggs",
             "mrn": 2032,
             "rev": null,
@@ -1280,7 +1280,7 @@
             ]
           },
           {
-            "id": "69aab641190d6bcc984af231",
+            "id": "69ab4098190d6bcc9840de26",
             "name": "Chef's Choice",
             "mrn": 51783,
             "rev": null,
@@ -1442,7 +1442,7 @@
             "filters": []
           },
           {
-            "id": "69aab641190d6bcc984af235",
+            "id": "69ab4098190d6bcc9840de2a",
             "name": "Turkey Sausage Links",
             "mrn": 5828,
             "rev": null,
@@ -1642,8 +1642,8 @@
   },
   "closedOnDate": false,
   "status": {
-    "label": "open",
-    "message": "Open. Closes at 10:30am.",
-    "color": "green"
+    "label": "closed",
+    "message": "Closed. Opens in 29 minutes.",
+    "color": "orange"
   }
 }
