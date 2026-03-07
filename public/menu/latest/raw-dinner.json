@@ -13,7 +13,7 @@
         "sortOrder": 2,
         "items": [
           {
-            "id": "69ac13bb190d6bcc98a30bd8",
+            "id": "69ac86b5190d6bcc98892dff",
             "name": "Deli Sandwich Bar",
             "mrn": 27584,
             "rev": null,
@@ -327,7 +327,7 @@
         "sortOrder": 2,
         "items": [
           {
-            "id": "69ac13bb190d6bcc98a30b73",
+            "id": "69ac86b5190d6bcc98892d85",
             "name": "Grilled Chicken Thigh",
             "mrn": 52581,
             "rev": null,
@@ -506,7 +506,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30b7a",
+            "id": "69ac86b5190d6bcc98892d8f",
             "name": "Chef's Choice",
             "mrn": 51783,
             "rev": null,
@@ -668,7 +668,7 @@
             "filters": []
           },
           {
-            "id": "69ac13bc190d6bcc98a32723",
+            "id": "69ac86b5190d6bcc98892d6b",
             "name": "Roasted Carrots and Dates",
             "mrn": 181108,
             "rev": null,
@@ -847,7 +847,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30b76",
+            "id": "69ac86b5190d6bcc98892d8a",
             "name": "Marinated Tofu",
             "mrn": 119902,
             "rev": null,
@@ -1058,7 +1058,7 @@
             ]
           },
           {
-            "id": "69ac13bc190d6bcc98a3272a",
+            "id": "69ac86b5190d6bcc98892d73",
             "name": "Steamed Green Beans ",
             "mrn": 102964,
             "rev": null,
@@ -1252,7 +1252,7 @@
         "sortOrder": 2,
         "items": [
           {
-            "id": "69ac13bb190d6bcc98a30b70",
+            "id": "69ac86b5190d6bcc98892d80",
             "name": "Chef's Choice",
             "mrn": 51783,
             "rev": null,
@@ -1414,7 +1414,7 @@
             "filters": []
           },
           {
-            "id": "69ac13bc190d6bcc98a3271d",
+            "id": "69ac86b5190d6bcc98892d64",
             "name": "White Rice",
             "mrn": 103814,
             "rev": null,
@@ -1601,7 +1601,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30b66",
+            "id": "69ac86b5190d6bcc98892d76",
             "name": "Turmeric Roasted Root Vegetables",
             "mrn": 123296,
             "rev": null,
@@ -1804,7 +1804,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30bdc",
+            "id": "69ac86b5190d6bcc98892e05",
             "name": "Garden Salad",
             "mrn": 28513,
             "rev": null,
@@ -1983,7 +1983,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30b6b",
+            "id": "69ac86b5190d6bcc98892d7d",
             "name": "Pan Rolls",
             "mrn": 47482,
             "rev": null,
@@ -2199,7 +2199,7 @@
         "sortOrder": 2,
         "items": [
           {
-            "id": "69ac13ba190d6bcc98a2fc2e",
+            "id": "69ac86b5190d6bcc988924a0",
             "name": "French Fries",
             "mrn": 8414,
             "rev": null,
@@ -2361,7 +2361,7 @@
             "filters": []
           },
           {
-            "id": "69ac13ba190d6bcc98a2fc33",
+            "id": "69ac86b5190d6bcc988924d7",
             "name": "Hamburger on Bun",
             "mrn": 5305,
             "rev": null,
@@ -2571,7 +2571,7 @@
         "sortOrder": 2,
         "items": [
           {
-            "id": "69ac13bb190d6bcc98a30ba4",
+            "id": "69ac86b5190d6bcc98892dc5",
             "name": "Lettuce Leaf",
             "mrn": 14957,
             "rev": null,
@@ -2750,7 +2750,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30ba0",
+            "id": "69ac86b5190d6bcc98892dbf",
             "name": "Sliced Tomatoes",
             "mrn": 47955,
             "rev": null,
@@ -2937,7 +2937,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30b9c",
+            "id": "69ac86b5190d6bcc98892db9",
             "name": "Dill Pickle Slices",
             "mrn": 63438,
             "rev": null,
@@ -3132,7 +3132,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30b97",
+            "id": "69ac86b5190d6bcc98892db4",
             "name": "Sliced Red Onion",
             "mrn": 14918,
             "rev": null,
@@ -3326,7 +3326,7 @@
         "sortOrder": 2,
         "items": [
           {
-            "id": "69ac13bb190d6bcc98a30b7e",
+            "id": "69ac86b5190d6bcc98892d94",
             "name": "Cheese Pizza",
             "mrn": 103574,
             "rev": null,
@@ -3569,7 +3569,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30b82",
+            "id": "69ac86b5190d6bcc98892d98",
             "name": "Pepperoni Pizza",
             "mrn": 103896,
             "rev": null,
@@ -3836,7 +3836,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30b94",
+            "id": "69ac86b5190d6bcc98892dad",
             "name": "Roasted Vegetable Pizza",
             "mrn": 27901,
             "rev": null,
@@ -4095,7 +4095,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30b86",
+            "id": "69ac86b5190d6bcc98892d9c",
             "name": "Crushed Red Pepper",
             "mrn": 63317,
             "rev": null,
@@ -4274,7 +4274,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30b90",
+            "id": "69ac86b5190d6bcc98892da8",
             "name": "Dried Oregano",
             "mrn": 76771,
             "rev": null,
@@ -4453,7 +4453,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30b8a",
+            "id": "69ac86b5190d6bcc98892da2",
             "name": "Grated Parmesan Cheese",
             "mrn": 62346,
             "rev": null,
@@ -4639,7 +4639,7 @@
         "sortOrder": 2,
         "items": [
           {
-            "id": "69ac13bb190d6bcc98a30bce",
+            "id": "69ac86b5190d6bcc98892df5",
             "name": "Crostini",
             "mrn": 8286,
             "rev": null,
@@ -4850,7 +4850,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30bd2",
+            "id": "69ac86b5190d6bcc98892dfb",
             "name": "Baked Pasta Al Forno",
             "mrn": 40405,
             "rev": null,
@@ -5082,8 +5082,8 @@
   },
   "closedOnDate": false,
   "status": {
-    "label": "open",
-    "message": "Open. Closes at 3:00pm.",
-    "color": "green"
+    "label": "closed",
+    "message": "Closed. Opens at 5:30pm.",
+    "color": "red"
   }
 }

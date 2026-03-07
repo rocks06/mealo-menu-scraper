@@ -13,7 +13,7 @@
         "sortOrder": 0,
         "items": [
           {
-            "id": "69ac13bb190d6bcc98a30ba9",
+            "id": "69ac86b5190d6bcc98892dcb",
             "name": "Omelet Bar",
             "mrn": 128444,
             "rev": null,
@@ -175,7 +175,7 @@
             "filters": []
           },
           {
-            "id": "69ac13bb190d6bcc98a30bbb",
+            "id": "69ac86b5190d6bcc98892de1",
             "name": "Chopped Spinach",
             "mrn": 47960,
             "rev": null,
@@ -354,7 +354,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30bc0",
+            "id": "69ac86b5190d6bcc98892dea",
             "name": " Diced Onions",
             "mrn": 13404,
             "rev": null,
@@ -541,7 +541,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30bb1",
+            "id": "69ac86b5190d6bcc98892dd9",
             "name": "Scrambled Eggs",
             "mrn": 51687,
             "rev": null,
@@ -728,7 +728,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30bc8",
+            "id": "69ac86b5190d6bcc98892def",
             "name": "Chopped Green Bell Pepper",
             "mrn": 63065,
             "rev": null,
@@ -907,7 +907,7 @@
             ]
           },
           {
-            "id": "69ac13bb190d6bcc98a30bae",
+            "id": "69ac86b5190d6bcc98892dd1",
             "name": "Shredded Monterey Jack Cheese",
             "mrn": 75797,
             "rev": null,
@@ -1093,7 +1093,7 @@
         "sortOrder": 0,
         "items": [
           {
-            "id": "69ac13bb190d6bcc98a30bb6",
+            "id": "69ac86b5190d6bcc98892ddc",
             "name": "Chef's Choice",
             "mrn": 51783,
             "rev": null,
@@ -1260,8 +1260,8 @@
   },
   "closedOnDate": false,
   "status": {
-    "label": "open",
-    "message": "Open. Closes at 3:00pm.",
-    "color": "green"
+    "label": "closed",
+    "message": "Closed. Opens at 5:30pm.",
+    "color": "red"
   }
 }

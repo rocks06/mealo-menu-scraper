@@ -13,7 +13,7 @@
         "sortOrder": 1,
         "items": [
           {
-            "id": "69ac13ba190d6bcc98a2f79a",
+            "id": "69ac86b3190d6bcc9889073b",
             "name": "Deli Sandwich Bar",
             "mrn": 27584,
             "rev": null,
@@ -327,7 +327,7 @@
         "sortOrder": 1,
         "items": [
           {
-            "id": "69ac13ba190d6bcc98a2f78d",
+            "id": "69ac86b3190d6bcc9889072d",
             "name": "Chef's Choice",
             "mrn": 51783,
             "rev": null,
@@ -489,7 +489,7 @@
             "filters": []
           },
           {
-            "id": "69ac13ba190d6bcc98a2f79f",
+            "id": "69ac86b3190d6bcc98890741",
             "name": "Asparagus",
             "mrn": 105633,
             "rev": null,
@@ -668,7 +668,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2f794",
+            "id": "69ac86b3190d6bcc98890735",
             "name": "White Rice",
             "mrn": 103814,
             "rev": null,
@@ -855,7 +855,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2f785",
+            "id": "69ac86b3190d6bcc98890724",
             "name": "Vegan Meatballs",
             "mrn": 144407,
             "rev": null,
@@ -1106,7 +1106,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2f7a5",
+            "id": "69ac86b3190d6bcc98890746",
             "name": "Vegetable Medley",
             "mrn": 103782,
             "rev": null,
@@ -1316,7 +1316,7 @@
         "sortOrder": 1,
         "items": [
           {
-            "id": "69ac13ba190d6bcc98a2f878",
+            "id": "69ac86b3190d6bcc98890833",
             "name": "Omelet Bar",
             "mrn": 128444,
             "rev": null,
@@ -1478,7 +1478,7 @@
             "filters": []
           },
           {
-            "id": "69ac13ba190d6bcc98a2f87c",
+            "id": "69ac86b3190d6bcc9889083d",
             "name": "Eggs",
             "mrn": 73988,
             "rev": null,
@@ -1665,7 +1665,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2f884",
+            "id": "69ac86b3190d6bcc98890843",
             "name": "Egg Whites",
             "mrn": 63110,
             "rev": null,
@@ -1852,7 +1852,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2f888",
+            "id": "69ac86b3190d6bcc9889084a",
             "name": "Diced Ham",
             "mrn": 14899,
             "rev": null,
@@ -2031,7 +2031,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2f88e",
+            "id": "69ac86b3190d6bcc98890850",
             "name": "Diced Tomatoes",
             "mrn": 46017,
             "rev": null,
@@ -2218,7 +2218,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2f892",
+            "id": "69ac86b3190d6bcc98890856",
             "name": " Diced Onions",
             "mrn": 13404,
             "rev": null,
@@ -2405,7 +2405,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2f897",
+            "id": "69ac86b3190d6bcc9889085a",
             "name": "Sauteed Mushrooms",
             "mrn": 102288,
             "rev": null,
@@ -2608,7 +2608,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2f89c",
+            "id": "69ac86b3190d6bcc98890862",
             "name": "Blanched Fresh Spinach",
             "mrn": 8621,
             "rev": null,
@@ -2794,7 +2794,7 @@
         "sortOrder": 1,
         "items": [
           {
-            "id": "69ac13ba190d6bcc98a2fbf2",
+            "id": "69ac86b4190d6bcc9889213a",
             "name": "Veggie Burger",
             "mrn": 100441,
             "rev": null,
@@ -3053,7 +3053,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2fbfd",
+            "id": "69ac86b4190d6bcc98892143",
             "name": "Hamburger on Bun",
             "mrn": 5305,
             "rev": null,
@@ -3256,7 +3256,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2fbf7",
+            "id": "69ac86b4190d6bcc98892140",
             "name": "French Fries",
             "mrn": 8414,
             "rev": null,
@@ -3425,7 +3425,7 @@
         "sortOrder": 1,
         "items": [
           {
-            "id": "69ac13ba190d6bcc98a2f500",
+            "id": "69ac86b3190d6bcc98890505",
             "name": "Sliced Red Onion",
             "mrn": 14918,
             "rev": null,
@@ -3612,7 +3612,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2f525",
+            "id": "69ac86b3190d6bcc9889051e",
             "name": "Lettuce Leaf",
             "mrn": 14957,
             "rev": null,
@@ -3791,7 +3791,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2f51b",
+            "id": "69ac86b3190d6bcc98890515",
             "name": "Sliced Tomatoes",
             "mrn": 47955,
             "rev": null,
@@ -3978,7 +3978,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2f510",
+            "id": "69ac86b3190d6bcc9889050e",
             "name": "Dill Pickle Slices",
             "mrn": 63438,
             "rev": null,
@@ -4180,7 +4180,7 @@
         "sortOrder": 1,
         "items": [
           {
-            "id": "69ac13ba190d6bcc98a2fc05",
+            "id": "69ac86b4190d6bcc9889214a",
             "name": "Cheese Pizza",
             "mrn": 103574,
             "rev": null,
@@ -4423,7 +4423,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2fc01",
+            "id": "69ac86b4190d6bcc98892147",
             "name": "Pepperoni Pizza",
             "mrn": 103896,
             "rev": null,
@@ -4690,7 +4690,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2fc13",
+            "id": "69ac86b4190d6bcc9889215d",
             "name": "Crushed Red Pepper",
             "mrn": 63317,
             "rev": null,
@@ -4869,7 +4869,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2fc0a",
+            "id": "69ac86b4190d6bcc9889214d",
             "name": "Dried Oregano",
             "mrn": 76771,
             "rev": null,
@@ -5048,7 +5048,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2fc0e",
+            "id": "69ac86b4190d6bcc98892154",
             "name": "Grated Parmesan Cheese",
             "mrn": 62346,
             "rev": null,
@@ -5227,7 +5227,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2fc27",
+            "id": "69ac86b4190d6bcc98892168",
             "name": "Vegetable Pizza",
             "mrn": 1387,
             "rev": null,
@@ -5453,7 +5453,7 @@
         "sortOrder": 1,
         "items": [
           {
-            "id": "69ac13ba190d6bcc98a2fc1b",
+            "id": "69ac86b4190d6bcc98892161",
             "name": "Baked Pasta Al Forno",
             "mrn": 40405,
             "rev": null,
@@ -5680,7 +5680,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2fc39",
+            "id": "69ac86b5190d6bcc988924dd",
             "name": "Herbed Penne Pasta",
             "mrn": 14387,
             "rev": null,
@@ -5875,7 +5875,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2fc3f",
+            "id": "69ac86b5190d6bcc988924e2",
             "name": "Marinara Sauce ",
             "mrn": 103930,
             "rev": null,
@@ -6078,7 +6078,7 @@
             ]
           },
           {
-            "id": "69ac13ba190d6bcc98a2fc44",
+            "id": "69ac86b5190d6bcc988924e7",
             "name": "Alfredo Sauce",
             "mrn": 32217,
             "rev": null,
@@ -6270,8 +6270,8 @@
   },
   "closedOnDate": false,
   "status": {
-    "label": "open",
-    "message": "Open. Closes at 3:00pm.",
-    "color": "green"
+    "label": "closed",
+    "message": "Closed. Opens at 5:30pm.",
+    "color": "red"
   }
 }
