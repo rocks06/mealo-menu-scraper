@@ -8,7 +8,7 @@
       "sortOrder": 1,
       "items": [
         {
-          "id": "69ad2d42190d6bcc984674cb",
+          "id": "69ad814d190d6bcc986e733d",
           "name": "Deli Sandwich Bar",
           "portion": "8 ounce",
           "ingredients": "Water, Ciabatta Bun^, Black Forest Ham^, Corned Beef^, Genoa Salami^, Roast Beef^, Turkey Breast^, Sauerkraut^, Diced Chicken^, Croissant^, Tuna^, Yellow Mustard^, Elbow Macaroni^, Light Mayonnaise^, Potatoes, American Cheese^, Cheddar Cheese^, Red Onions, Swiss Cheese^, Tomatoes, Turkey Pastrami^, Mayonnaise^, Lettuce, Pepper Jack Cheese^, Provolone Cheese^, Fat Free Italian Dressing^, Pickle Relish^, Tomatoes, Yellow Onions, Egg, Lettuce Leaf, Celery, Green Bell Peppers, Red Bell Peppers, Spinach Herb Tortilla^, Tomato Basil Tortilla^, Marble Rye Bread^, Egg, White Bread^, Whole Wheat Bread^, Egg, Pimentos^, Parsley, Parsley, Yellow Onions, Kosher Salt^, White Pepper, Black Pepper, Oregano",
@@ -47,7 +47,7 @@
       "sortOrder": 1,
       "items": [
         {
-          "id": "69ad2d44190d6bcc9846887b",
+          "id": "69ad814e190d6bcc986e8657",
           "name": "Char Grilled Teriyaki Chicken",
           "portion": "1 each",
           "ingredients": "Chicken Thigh, Soy Sauce^, Teriyaki Glaze^, Baking Soda^",
@@ -77,7 +77,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc98468876",
+          "id": "69ad814e190d6bcc986e8653",
           "name": "White Rice",
           "portion": "1/2 cup",
           "ingredients": "Water, Long Grain White Rice^, Canola Oil, Salt",
@@ -95,7 +95,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc9846887f",
+          "id": "69ad814e190d6bcc986e865b",
           "name": "Garlic Herb Roasted Yellow Squash",
           "portion": "1/2 cup",
           "ingredients": "Yellow Squash, Canola Oil, Salt Free Garlic Herb Seasoning^",
@@ -118,7 +118,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc98468929",
+          "id": "69ad814e190d6bcc986e86c0",
           "name": "Jackfruit \"Burnt Ends\"",
           "portion": "3 oz portion",
           "ingredients": "Green Jackfruit^, Barbecue Sauce^, Olive Oil, Mesquite BBQ Seasoning^",
@@ -142,7 +142,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc9846892f",
+          "id": "69ad814e190d6bcc986e86c3",
           "name": "Steamed Broccoli",
           "portion": "1/2 cup",
           "ingredients": "Broccoli, Salt, Black Pepper",
@@ -166,7 +166,7 @@
       "sortOrder": 1,
       "items": [
         {
-          "id": "69ad2d44190d6bcc98468884",
+          "id": "69ad814e190d6bcc986e865d",
           "name": "Omelet Bar",
           "portion": "1 plate",
           "ingredients": "Water",
@@ -180,7 +180,7 @@
           "tags": []
         },
         {
-          "id": "69ad2d44190d6bcc98468890",
+          "id": "69ad814e190d6bcc986e8666",
           "name": "Eggs",
           "portion": "3 floz",
           "ingredients": "Liquid Egg^",
@@ -198,7 +198,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc9846888a",
+          "id": "69ad814e190d6bcc986e8663",
           "name": "Egg Whites",
           "portion": "3 floz",
           "ingredients": "Liquid Egg White^",
@@ -216,7 +216,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc98468894",
+          "id": "69ad814e190d6bcc986e8669",
           "name": "Chopped Spinach",
           "portion": "1 ounce",
           "ingredients": "Spinach",
@@ -233,7 +233,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc984688ae",
+          "id": "69ad814e190d6bcc986e8679",
           "name": "Chopped Tomatoes",
           "portion": "1 tbsp",
           "ingredients": "Tomatoes",
@@ -251,7 +251,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc9846889e",
+          "id": "69ad814e190d6bcc986e8671",
           "name": "Diced Onions",
           "portion": "1 tbsp",
           "ingredients": "Yellow Onions",
@@ -269,7 +269,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc98468899",
+          "id": "69ad814e190d6bcc986e866c",
           "name": "Sliced Mushrooms",
           "portion": "1 tbsp",
           "ingredients": "Mushrooms",
@@ -288,7 +288,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc984688a8",
+          "id": "69ad814e190d6bcc986e8677",
           "name": "Chopped Green Bell Pepper",
           "portion": "1 tbsp",
           "ingredients": "Green Bell Peppers",
@@ -305,7 +305,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc984688b3",
+          "id": "69ad814e190d6bcc986e867e",
           "name": "Shredded Sharp Cheddar Cheese",
           "portion": "2 tbsp",
           "ingredients": "Sharp Cheddar Cheese^",
@@ -322,7 +322,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc984688a4",
+          "id": "69ad814e190d6bcc986e8675",
           "name": "Diced Smoked Ham",
           "portion": "2 tbsp",
           "ingredients": "Ham^",
@@ -345,7 +345,7 @@
       "sortOrder": 1,
       "items": [
         {
-          "id": "69ad2d44190d6bcc984688b7",
+          "id": "69ad814e190d6bcc986e8682",
           "name": "Turkey Burger on Bun",
           "portion": "1 each",
           "ingredients": "Turkey Burger^, Hamburger Bun^",
@@ -369,7 +369,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc9846890b",
+          "id": "69ad814e190d6bcc986e86b0",
           "name": "Beef Hot Dog with Bun",
           "portion": "1 each",
           "ingredients": "Beef Hot Dog^, Hot Dog Bun^",
@@ -389,7 +389,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc984688bd",
+          "id": "69ad814e190d6bcc986e8684",
           "name": "Curly-Q French Fries",
           "portion": "1/2 cup",
           "ingredients": "Seasoned French Fries^, Kosher Salt^",
@@ -414,7 +414,7 @@
       "sortOrder": 1,
       "items": [
         {
-          "id": "69ad2d42190d6bcc98467470",
+          "id": "69ad814d190d6bcc986e730c",
           "name": "Lettuce Leaf",
           "portion": "1 each",
           "ingredients": "Lettuce Leaf",
@@ -431,7 +431,7 @@
           ]
         },
         {
-          "id": "69ad2d42190d6bcc9846746b",
+          "id": "69ad814d190d6bcc986e7307",
           "name": "Sliced Tomatoes",
           "portion": "2 slice",
           "ingredients": "Tomatoes",
@@ -449,7 +449,7 @@
           ]
         },
         {
-          "id": "69ad2d42190d6bcc98467465",
+          "id": "69ad814d190d6bcc986e7302",
           "name": "Dill Pickle Slices",
           "portion": "4 each",
           "ingredients": "Pickles^",
@@ -468,7 +468,7 @@
           ]
         },
         {
-          "id": "69ad2d42190d6bcc98467475",
+          "id": "69ad814d190d6bcc986e730e",
           "name": "Sliced Red Onion",
           "portion": "1 slice",
           "ingredients": "Red Onions",
@@ -492,7 +492,7 @@
       "sortOrder": 1,
       "items": [
         {
-          "id": "69ad2d44190d6bcc984688c6",
+          "id": "69ad814e190d6bcc986e8689",
           "name": "Cheese Pizza",
           "portion": "1 slice",
           "ingredients": "Pizza Dough^, Part Skim Mozzarella Cheese^, Tomatoes^, Canola Oil, Parmesan Cheese^, Kosher Salt^, Garlic, Garlic, Basil, Black Pepper, Basil, Parsley, Oregano, Red Pepper",
@@ -517,7 +517,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc984688c1",
+          "id": "69ad814e190d6bcc986e8687",
           "name": "Pepperoni Pizza",
           "portion": "1 slice",
           "ingredients": "Pizza Dough^, Part Skim Mozzarella Cheese^, Tomatoes^, Pepperoni^, Canola Oil, Parmesan Cheese^, Kosher Salt^, Garlic, Garlic, Basil, Black Pepper, Basil, Parsley, Oregano, Red Pepper",
@@ -545,7 +545,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc98468911",
+          "id": "69ad814e190d6bcc986e86b3",
           "name": "Vegetable Pizza",
           "portion": "1 slice",
           "ingredients": "Pizza Dough^, Tomatoes^, Parmesan Cheese^, Part Skim Mozzarella Cheese^, Green Bell Peppers, Mushrooms, Yellow Onions, Canola Oil, Kosher Salt^, Basil, Garlic, Black Pepper",
@@ -567,7 +567,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc984688cf",
+          "id": "69ad814e190d6bcc986e8690",
           "name": "Crushed Red Pepper",
           "portion": "1 tsp",
           "ingredients": "Red Pepper",
@@ -584,7 +584,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc984688ca",
+          "id": "69ad814e190d6bcc986e868d",
           "name": "Dried Oregano",
           "portion": "1 tsp",
           "ingredients": "Oregano",
@@ -601,7 +601,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc984688d7",
+          "id": "69ad814e190d6bcc986e8694",
           "name": "Grated Parmesan Cheese",
           "portion": "1 tsp",
           "ingredients": "Parmesan Cheese^",
@@ -624,7 +624,7 @@
       "sortOrder": 1,
       "items": [
         {
-          "id": "69ad2d44190d6bcc984688db",
+          "id": "69ad814e190d6bcc986e8698",
           "name": "Crostini",
           "portion": "1 slice",
           "ingredients": "French Bread^, Canola Oil",
@@ -645,7 +645,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc98468915",
+          "id": "69ad814e190d6bcc986e86b5",
           "name": "Penne Pasta",
           "portion": "1 cup",
           "ingredients": "Water, Penne^",
@@ -666,7 +666,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc9846891a",
+          "id": "69ad814e190d6bcc986e86ba",
           "name": "Marinara Sauce",
           "portion": "1/2 cup",
           "ingredients": "Tomatoes^, Tomato Puree^, Yellow Onions, Olive Oil, Sea Salt, Garlic, Basil, Oregano, Red Pepper",
@@ -686,7 +686,7 @@
           ]
         },
         {
-          "id": "69ad2d44190d6bcc98468921",
+          "id": "69ad814e190d6bcc986e86be",
           "name": "Alfredo Sauce",
           "portion": "3 floz",
           "ingredients": "Water, Cream Soup Base^, Parmesan Cheese^, Parsley, Black Pepper",
