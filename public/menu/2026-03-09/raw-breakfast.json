@@ -3,12 +3,12 @@
   "locationId": "58739aa53191a200e44eaaaf",
   "date": "2026-03-09",
   "period": {
-    "id": "69ae8c33492f9a9e2e9b12c4",
+    "id": "69af26d0492f9a9e2e9d45b5",
     "name": "Breakfast",
     "slug": null,
     "categories": [
       {
-        "id": "69ae8c33492f9a9e2e9b12b5",
+        "id": "69af26d0492f9a9e2e9d45a6",
         "name": "Exhibition",
         "sortOrder": 0,
         "items": [
@@ -1088,7 +1088,7 @@
         ]
       },
       {
-        "id": "69ae8c33492f9a9e2e9b12b6",
+        "id": "69af26d0492f9a9e2e9d45a7",
         "name": "Grill",
         "sortOrder": 0,
         "items": [
@@ -1651,7 +1651,7 @@
   "closedOnDate": false,
   "status": {
     "label": "closed",
-    "message": "Closed. Opens at 10:00am.",
-    "color": "red"
+    "message": "Closed. Opens in 25 minutes.",
+    "color": "orange"
   }
 }

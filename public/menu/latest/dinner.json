@@ -2,5 +2,575 @@
   "date": "2026-03-09",
   "period": "dinner",
   "hall": "Roussell Dining Hall",
-  "stations": []
+  "stations": [
+    {
+      "station": "Deli CCS",
+      "sortOrder": 2,
+      "items": [
+        {
+          "id": "69ae709a190d6bcc988a1f2d",
+          "name": "Chef's Choice",
+          "portion": "1 tsp",
+          "ingredients": "Water",
+          "calories": null,
+          "macros": {
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          "allergens": [],
+          "tags": []
+        }
+      ]
+    },
+    {
+      "station": "Comfort",
+      "sortOrder": 2,
+      "items": [
+        {
+          "id": "69ae709a190d6bcc988a1f30",
+          "name": "Turkey Shawarma Meatballs",
+          "portion": "3 each",
+          "ingredients": "Italian Turkey Meatballs^, Shawarma Base^, Lemon Juice, Canola Oil, Lemon",
+          "calories": 110,
+          "macros": {
+            "protein_g": 7,
+            "carbs_g": 5,
+            "fat_g": 7
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1b72",
+          "name": "Thyme Roasted Potatoes",
+          "portion": "1/2 cup",
+          "ingredients": "Red Bliss Potatoes, Canola Oil, Garlic, Salt, Thyme, Black Pepper",
+          "calories": 110,
+          "macros": {
+            "protein_g": 2,
+            "carbs_g": 17,
+            "fat_g": 3.5
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1b76",
+          "name": "Roasted Vegetables",
+          "portion": "1/2 cup",
+          "ingredients": "Yellow Squash, Zucchini, Carrots, Green Bell Peppers, Red Bell Peppers, Red Onions, Balsamic Vinegar^, Canola Oil, Kosher Salt^, Thyme, Fresh Ground Black Pepper, Basil",
+          "calories": 45,
+          "macros": {
+            "protein_g": 1,
+            "carbs_g": 8,
+            "fat_g": 1.5
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1b7a",
+          "name": "Meatless Chicken Tender",
+          "portion": "2 each",
+          "ingredients": "Meatless Chicken Strips^",
+          "calories": 260,
+          "macros": {
+            "protein_g": 22,
+            "carbs_g": 26,
+            "fat_g": 9
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        }
+      ]
+    },
+    {
+      "station": "Exhibition",
+      "sortOrder": 2,
+      "items": [
+        {
+          "id": "69ae709a190d6bcc988a1f39",
+          "name": "Cuban Beef Picadillo",
+          "portion": "1 ladle-8oz",
+          "ingredients": "Ground Beef, Tomato Sauce^, Yellow Onions, Green Olives^, Raisins, Garlic, Cumin, Black Pepper, Kosher Salt^",
+          "calories": 280,
+          "macros": {
+            "protein_g": 23,
+            "carbs_g": 9,
+            "fat_g": 17
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1f33",
+          "name": "Yellow Rice",
+          "portion": "1/2 cup",
+          "ingredients": "Long Grain White Rice^, Water, Yellow Onions, Canola Oil, Green Bell Peppers, Vegetable Base^, Lime, Turmeric, Cumin, Garlic, Ground Paprika^, Black Pepper, Bay Leaf",
+          "calories": 130,
+          "macros": {
+            "protein_g": 2,
+            "carbs_g": 17,
+            "fat_g": 5
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1f3d",
+          "name": "Black Beans",
+          "portion": "1/2 cup",
+          "ingredients": "Low Sodium Black Turtle Beans^, Yellow Onions, Water, Red Bell Peppers, Canola Oil, Garlic, Sugar, Kosher Salt^, Cumin",
+          "calories": 80,
+          "macros": {
+            "protein_g": 4,
+            "carbs_g": 11,
+            "fat_g": 2.5
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1f3f",
+          "name": "Steamed Green Beans",
+          "portion": "1/2 cup",
+          "ingredients": "Green Beans",
+          "calories": 30,
+          "macros": {
+            "protein_g": 2,
+            "carbs_g": 7,
+            "fat_g": 0
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1ed1",
+          "name": "Pan Rolls",
+          "portion": "1 each",
+          "ingredients": "All Purpose Flour^, Water, High Gluten Flour^, Water, Sugar, Margarine^, Unsalted Butter, Whole Dry Milk^, Active Yeast^, Salt, Cooking Oil Spray^",
+          "calories": 130,
+          "macros": {
+            "protein_g": 4,
+            "carbs_g": 23,
+            "fat_g": 3
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1ed4",
+          "name": "Garden Salad",
+          "portion": "4 ounce",
+          "ingredients": "Lettuce, Spring Lettuce Salad Mix, Carrots, Cucumber, Tomatoes",
+          "calories": 20,
+          "macros": {
+            "protein_g": 1,
+            "carbs_g": 4,
+            "fat_g": 0
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        }
+      ]
+    },
+    {
+      "station": "Grill",
+      "sortOrder": 2,
+      "items": []
+    },
+    {
+      "station": "Daily Grill",
+      "sortOrder": 2,
+      "items": [
+        {
+          "id": "69ae7099190d6bcc988a0cc2",
+          "name": "Hamburger on Bun",
+          "portion": "1 sandwich",
+          "ingredients": "Beef Patty, Hamburger Bun^",
+          "calories": 380,
+          "macros": {
+            "protein_g": 22,
+            "carbs_g": 34,
+            "fat_g": 15
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae7099190d6bcc988a0cad",
+          "name": "French Fries",
+          "portion": "1/2 cup",
+          "ingredients": "French Fries^",
+          "calories": 60,
+          "macros": {
+            "protein_g": 1,
+            "carbs_g": 7,
+            "fat_g": 4
+          },
+          "allergens": [],
+          "tags": []
+        },
+        {
+          "id": "69ae7099190d6bcc988a0cc8",
+          "name": "Hot Dog",
+          "portion": "1 each",
+          "ingredients": "Beef Hot Dog^, Hot Dog Bun^",
+          "calories": 470,
+          "macros": {
+            "protein_g": 16,
+            "carbs_g": 22,
+            "fat_g": 34
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        }
+      ]
+    },
+    {
+      "station": "Grill Condiments",
+      "sortOrder": 2,
+      "items": [
+        {
+          "id": "69ae709a190d6bcc988a1ef8",
+          "name": "Lettuce Leaf",
+          "portion": "1 each",
+          "ingredients": "Lettuce Leaf",
+          "calories": null,
+          "macros": {
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1ef4",
+          "name": "Sliced Tomatoes",
+          "portion": "2 slice",
+          "ingredients": "Tomatoes",
+          "calories": 0,
+          "macros": {
+            "protein_g": 0,
+            "carbs_g": 1,
+            "fat_g": 0
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1ef1",
+          "name": "Dill Pickle Slices",
+          "portion": "4 each",
+          "ingredients": "Pickles^",
+          "calories": 0,
+          "macros": {
+            "protein_g": 0,
+            "carbs_g": 1,
+            "fat_g": 0
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1eed",
+          "name": "Sliced Red Onion",
+          "portion": "1 slice",
+          "ingredients": "Red Onions",
+          "calories": 5,
+          "macros": {
+            "protein_g": 0,
+            "carbs_g": 1,
+            "fat_g": 0
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        }
+      ]
+    },
+    {
+      "station": "Pizza CCS",
+      "sortOrder": 2,
+      "items": [
+        {
+          "id": "69ae709a190d6bcc988a1edd",
+          "name": "Cheese Pizza",
+          "portion": "1 slice",
+          "ingredients": "Pizza Dough^, Part Skim Mozzarella Cheese^, Tomatoes^, Canola Oil, Parmesan Cheese^, Kosher Salt^, Garlic, Garlic, Basil, Black Pepper, Basil, Parsley, Oregano, Red Pepper",
+          "calories": 200,
+          "macros": {
+            "protein_g": 8,
+            "carbs_g": 29,
+            "fat_g": 5
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1ed9",
+          "name": "Pepperoni Pizza",
+          "portion": "1 slice",
+          "ingredients": "Pizza Dough^, Part Skim Mozzarella Cheese^, Tomatoes^, Pepperoni^, Canola Oil, Parmesan Cheese^, Kosher Salt^, Garlic, Garlic, Basil, Black Pepper, Basil, Parsley, Oregano, Red Pepper",
+          "calories": 210,
+          "macros": {
+            "protein_g": 9,
+            "carbs_g": 29,
+            "fat_g": 7
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1efb",
+          "name": "Vegetable Pizza",
+          "portion": "1 slice",
+          "ingredients": "Pizza Dough^, Tomatoes^, Parmesan Cheese^, Part Skim Mozzarella Cheese^, Green Bell Peppers, Mushrooms, Yellow Onions, Canola Oil, Kosher Salt^, Basil, Garlic, Black Pepper",
+          "calories": 330,
+          "macros": {
+            "protein_g": 15,
+            "carbs_g": 46,
+            "fat_g": 10
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1ee5",
+          "name": "Crushed Red Pepper",
+          "portion": "1 tsp",
+          "ingredients": "Red Pepper",
+          "calories": 5,
+          "macros": {
+            "protein_g": 0,
+            "carbs_g": 1,
+            "fat_g": 0
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1ee0",
+          "name": "Dried Oregano",
+          "portion": "1 tsp",
+          "ingredients": "Oregano",
+          "calories": null,
+          "macros": {
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1ee8",
+          "name": "Grated Parmesan Cheese",
+          "portion": "1 tsp",
+          "ingredients": "Parmesan Cheese^",
+          "calories": 10,
+          "macros": {
+            "protein_g": 1,
+            "carbs_g": 0,
+            "fat_g": 0.5
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]"
+          ]
+        }
+      ]
+    },
+    {
+      "station": "Pasta CCS",
+      "sortOrder": 2,
+      "items": [
+        {
+          "id": "69ae709a190d6bcc988a1f25",
+          "name": "Crostini",
+          "portion": "1 slice",
+          "ingredients": "French Bread^, Canola Oil",
+          "calories": 40,
+          "macros": {
+            "protein_g": 1,
+            "carbs_g": 5,
+            "fat_g": 2
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69ae709a190d6bcc988a1f28",
+          "name": "Baked Pasta Al Forno",
+          "portion": "8 ounce",
+          "ingredients": "Water, No Added Salt Tomatoes^, Whole Milk^, Barilla Plus Penne^, Ground Turkey, Unsalted Butter, Yellow Onions, All Purpose Flour^, Canola Oil, Sugar, Parsley, Kosher Salt^, Garlic, Basil, Oregano, Black Pepper, Thyme, Nutmeg",
+          "calories": 280,
+          "macros": {
+            "protein_g": 14,
+            "carbs_g": 32,
+            "fat_g": 12
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
+            "[object Object]"
+          ]
+        }
+      ]
+    }
+  ]
 }
