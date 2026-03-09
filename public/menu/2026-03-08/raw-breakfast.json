@@ -3,17 +3,17 @@
   "locationId": "58739aa53191a200e44eaaaf",
   "date": "2026-03-08",
   "period": {
-    "id": "69ad8124492f9a9e2e96d456",
+    "id": "69adab54492f9a9e2e977baf",
     "name": "Breakfast",
     "slug": null,
     "categories": [
       {
-        "id": "69ad8124492f9a9e2e96d447",
+        "id": "69adab53492f9a9e2e977ba0",
         "name": "Exhibition",
         "sortOrder": 0,
         "items": [
           {
-            "id": "69ad814e190d6bcc986e869a",
+            "id": "69adc7b6190d6bcc9897e8c4",
             "name": "Omelet Bar",
             "mrn": 128444,
             "rev": null,
@@ -175,7 +175,7 @@
             "filters": []
           },
           {
-            "id": "69ad814e190d6bcc986e86a6",
+            "id": "69adc7b6190d6bcc9897e8d6",
             "name": "Chopped Spinach",
             "mrn": 47960,
             "rev": null,
@@ -354,7 +354,7 @@
             ]
           },
           {
-            "id": "69ad814e190d6bcc986e86aa",
+            "id": "69adc7b6190d6bcc9897e8db",
             "name": " Diced Onions",
             "mrn": 13404,
             "rev": null,
@@ -541,7 +541,7 @@
             ]
           },
           {
-            "id": "69ad814e190d6bcc986e86ac",
+            "id": "69adc7b6190d6bcc9897e8df",
             "name": "Chopped Green Bell Pepper",
             "mrn": 63065,
             "rev": null,
@@ -720,7 +720,7 @@
             ]
           },
           {
-            "id": "69ad814e190d6bcc986e869d",
+            "id": "69adc7b6190d6bcc9897e8c9",
             "name": "Shredded Monterey Jack Cheese",
             "mrn": 75797,
             "rev": null,
@@ -899,7 +899,7 @@
             ]
           },
           {
-            "id": "69ad814e190d6bcc986e869f",
+            "id": "69adc7b6190d6bcc9897e8ce",
             "name": "Scrambled Eggs",
             "mrn": 51687,
             "rev": null,
@@ -1088,12 +1088,12 @@
         ]
       },
       {
-        "id": "69ad8124492f9a9e2e96d448",
+        "id": "69adab53492f9a9e2e977ba1",
         "name": "Grill",
         "sortOrder": 0,
         "items": [
           {
-            "id": "69ad814e190d6bcc986e86a1",
+            "id": "69adc7b6190d6bcc9897e8d1",
             "name": "Chef's Choice",
             "mrn": 51783,
             "rev": null,
@@ -1260,8 +1260,8 @@
   },
   "closedOnDate": false,
   "status": {
-    "label": "open",
-    "message": "Open. Closes at 3:00pm.",
-    "color": "green"
+    "label": "closed",
+    "message": "Closed. Opens at 5:30pm.",
+    "color": "red"
   }
 }
