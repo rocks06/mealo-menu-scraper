@@ -3,12 +3,12 @@
   "locationId": "58739aa53191a200e44eaaaf",
   "date": "2026-03-10",
   "period": {
-    "id": "69b0085d492f9a9e2ea12f85",
+    "id": "69b05c4e9578fd6ee36fd7cb",
     "name": "Dinner",
     "slug": null,
     "categories": [
       {
-        "id": "69b0085d492f9a9e2ea12f71",
+        "id": "69b05c4e9578fd6ee36fd7b7",
         "name": "Deli CCS",
         "sortOrder": 2,
         "items": [
@@ -177,7 +177,7 @@
         ]
       },
       {
-        "id": "69b0085d492f9a9e2ea12f72",
+        "id": "69b05c4e9578fd6ee36fd7b8",
         "name": "Comfort",
         "sortOrder": 2,
         "items": [
@@ -1295,7 +1295,7 @@
         ]
       },
       {
-        "id": "69b0085d492f9a9e2ea12f73",
+        "id": "69b05c4e9578fd6ee36fd7b9",
         "name": "Exhibition",
         "sortOrder": 2,
         "items": [
@@ -2333,13 +2333,13 @@
         ]
       },
       {
-        "id": "69b0085d492f9a9e2ea12f76",
+        "id": "69b05c4e9578fd6ee36fd7bc",
         "name": "Grill",
         "sortOrder": 2,
         "items": []
       },
       {
-        "id": "69b0085d492f9a9e2ea12f6f",
+        "id": "69b05c4e9578fd6ee36fd7b5",
         "name": "Daily Grill",
         "sortOrder": 2,
         "items": [
@@ -2970,7 +2970,7 @@
         ]
       },
       {
-        "id": "69b0085d492f9a9e2ea12f70",
+        "id": "69b05c4e9578fd6ee36fd7b6",
         "name": "Grill Condiments",
         "sortOrder": 2,
         "items": [
@@ -3725,7 +3725,7 @@
         ]
       },
       {
-        "id": "69b0085d492f9a9e2ea12f74",
+        "id": "69b05c4e9578fd6ee36fd7ba",
         "name": "Pizza CCS",
         "sortOrder": 2,
         "items": [
@@ -5038,7 +5038,7 @@
         ]
       },
       {
-        "id": "69b0085d492f9a9e2ea12f75",
+        "id": "69b05c4e9578fd6ee36fd7bb",
         "name": "Pasta CCS",
         "sortOrder": 2,
         "items": [
@@ -5486,8 +5486,8 @@
   },
   "closedOnDate": false,
   "status": {
-    "label": "open",
-    "message": "Open. Closes at 2:00pm.",
-    "color": "green"
+    "label": "closed",
+    "message": "Closed. Opens in 25 minutes.",
+    "color": "orange"
   }
 }

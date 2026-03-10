@@ -3,12 +3,12 @@
   "locationId": "58739aa53191a200e44eaaaf",
   "date": "2026-03-10",
   "period": {
-    "id": "69b0085d492f9a9e2ea12f84",
+    "id": "69b05c4e9578fd6ee36fd7ca",
     "name": "Lunch",
     "slug": null,
     "categories": [
       {
-        "id": "69b0085d492f9a9e2ea12f69",
+        "id": "69b05c4e9578fd6ee36fd7af",
         "name": "Deli CCS",
         "sortOrder": 1,
         "items": [
@@ -322,7 +322,7 @@
         ]
       },
       {
-        "id": "69b0085d492f9a9e2ea12f6a",
+        "id": "69b05c4e9578fd6ee36fd7b0",
         "name": "Comfort",
         "sortOrder": 1,
         "items": [
@@ -1312,7 +1312,7 @@
         ]
       },
       {
-        "id": "69b0085d492f9a9e2ea12f6b",
+        "id": "69b05c4e9578fd6ee36fd7b1",
         "name": "Exhibition",
         "sortOrder": 1,
         "items": [
@@ -3140,7 +3140,7 @@
         ]
       },
       {
-        "id": "69b0085d492f9a9e2ea12f6c",
+        "id": "69b05c4e9578fd6ee36fd7b2",
         "name": "Grill",
         "sortOrder": 1,
         "items": [
@@ -3812,7 +3812,7 @@
         ]
       },
       {
-        "id": "69b0085d492f9a9e2ea12f68",
+        "id": "69b05c4e9578fd6ee36fd7ae",
         "name": "Grill Condiments",
         "sortOrder": 1,
         "items": [
@@ -4567,7 +4567,7 @@
         ]
       },
       {
-        "id": "69b0085d492f9a9e2ea12f6d",
+        "id": "69b05c4e9578fd6ee36fd7b3",
         "name": "Pizza CCS",
         "sortOrder": 1,
         "items": [
@@ -5840,7 +5840,7 @@
         ]
       },
       {
-        "id": "69b0085d492f9a9e2ea12f6e",
+        "id": "69b05c4e9578fd6ee36fd7b4",
         "name": "Pasta CCS",
         "sortOrder": 1,
         "items": [
@@ -6662,8 +6662,8 @@
   },
   "closedOnDate": false,
   "status": {
-    "label": "open",
-    "message": "Open. Closes at 2:00pm.",
-    "color": "green"
+    "label": "closed",
+    "message": "Closed. Opens in 25 minutes.",
+    "color": "orange"
   }
 }
