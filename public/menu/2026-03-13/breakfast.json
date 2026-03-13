@@ -8,7 +8,7 @@
       "sortOrder": 0,
       "items": [
         {
-          "id": "69b41ad2190d6bcc98da7713",
+          "id": "69b46f30190d6bcc98fd6238",
           "name": "Omelet Bar",
           "portion": "1 plate",
           "ingredients": "Water",
@@ -22,7 +22,7 @@
           "tags": []
         },
         {
-          "id": "69b41ad2190d6bcc98da7723",
+          "id": "69b46f30190d6bcc98fd624b",
           "name": "Chopped Spinach",
           "portion": "1 ounce",
           "ingredients": "Spinach",
@@ -39,7 +39,7 @@
           ]
         },
         {
-          "id": "69b41ad2190d6bcc98da7728",
+          "id": "69b46f30190d6bcc98fd6250",
           "name": "Diced Onions",
           "portion": "1 tbsp",
           "ingredients": "Yellow Onions",
@@ -57,7 +57,7 @@
           ]
         },
         {
-          "id": "69b41ad2190d6bcc98da771e",
+          "id": "69b46f30190d6bcc98fd6246",
           "name": "Scrambled Eggs",
           "portion": "2 ounce",
           "ingredients": "Liquid Egg^",
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "id": "69b41ad2190d6bcc98da772c",
+          "id": "69b46f30190d6bcc98fd6257",
           "name": "Chopped Green Bell Pepper",
           "portion": "1 tbsp",
           "ingredients": "Green Bell Peppers",
@@ -92,7 +92,7 @@
           ]
         },
         {
-          "id": "69b41ad2190d6bcc98da7718",
+          "id": "69b46f30190d6bcc98fd623f",
           "name": "Shredded Monterey Jack Cheese",
           "portion": "1 tbsp",
           "ingredients": "Monterey Jack Cheese^",
@@ -115,7 +115,7 @@
       "sortOrder": 0,
       "items": [
         {
-          "id": "69b41ad3190d6bcc98da865b",
+          "id": "69b46f31190d6bcc98fd6e62",
           "name": "Scrambled Eggs",
           "portion": "1/2 cup",
           "ingredients": "Liquid Egg^, Canola Oil",
@@ -133,7 +133,7 @@
           ]
         },
         {
-          "id": "69b41ad3190d6bcc98da8652",
+          "id": "69b46f31190d6bcc98fd6e58",
           "name": "Chef's Choice",
           "portion": "1 tsp",
           "ingredients": "Water",
@@ -147,7 +147,7 @@
           "tags": []
         },
         {
-          "id": "69b41ad3190d6bcc98da8657",
+          "id": "69b46f31190d6bcc98fd6e5d",
           "name": "Turkey Sausage Links",
           "portion": "1 each",
           "ingredients": "Turkey Sausage^",
