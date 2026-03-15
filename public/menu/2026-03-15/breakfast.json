@@ -8,7 +8,7 @@
       "sortOrder": 0,
       "items": [
         {
-          "id": "69b685aa190d6bcc982c84f3",
+          "id": "69b7124f190d6bcc987513e7",
           "name": "Omelet Bar",
           "portion": "1 plate",
           "ingredients": "Water",
@@ -22,7 +22,7 @@
           "tags": []
         },
         {
-          "id": "69b685aa190d6bcc982c8511",
+          "id": "69b7124f190d6bcc987513fe",
           "name": "Chopped Spinach",
           "portion": "1 ounce",
           "ingredients": "Spinach",
@@ -39,7 +39,7 @@
           ]
         },
         {
-          "id": "69b685aa190d6bcc982c8519",
+          "id": "69b7124f190d6bcc98751403",
           "name": "Diced Onions",
           "portion": "1 tbsp",
           "ingredients": "Yellow Onions",
@@ -57,7 +57,7 @@
           ]
         },
         {
-          "id": "69b685aa190d6bcc982c8520",
+          "id": "69b7124f190d6bcc98751407",
           "name": "Chopped Green Bell Pepper",
           "portion": "1 tbsp",
           "ingredients": "Green Bell Peppers",
@@ -74,7 +74,7 @@
           ]
         },
         {
-          "id": "69b685aa190d6bcc982c84fc",
+          "id": "69b7124f190d6bcc987513ee",
           "name": "Shredded Monterey Jack Cheese",
           "portion": "1 tbsp",
           "ingredients": "Monterey Jack Cheese^",
@@ -91,7 +91,7 @@
           ]
         },
         {
-          "id": "69b685aa190d6bcc982c8502",
+          "id": "69b7124f190d6bcc987513f3",
           "name": "Scrambled Eggs",
           "portion": "2 ounce",
           "ingredients": "Liquid Egg^",
@@ -115,7 +115,7 @@
       "sortOrder": 0,
       "items": [
         {
-          "id": "69b685aa190d6bcc982c850b",
+          "id": "69b7124f190d6bcc987513f8",
           "name": "Chef's Choice",
           "portion": "1 tsp",
           "ingredients": "Water",
