@@ -3,17 +3,17 @@
   "locationId": "58739aa53191a200e44eaaaf",
   "date": "2026-03-17",
   "period": {
-    "id": "69b95e6e956b17144fd59a43",
+    "id": "69b9b2cf956b17144fd9f63a",
     "name": "Dinner",
     "slug": null,
     "categories": [
       {
-        "id": "69b95e6e956b17144fd59a2f",
+        "id": "69b9b2cf956b17144fd9f620",
         "name": "Deli CCS",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69b960e7190d6bcc98d4e5c1",
+            "id": "69b9b54b190d6bcc98304787",
             "name": "Chef's Choice",
             "mrn": 51783,
             "rev": null,
@@ -177,12 +177,12 @@
         ]
       },
       {
-        "id": "69b95e6e956b17144fd59a30",
+        "id": "69b9b2cf956b17144fd9f621",
         "name": "Comfort",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69b960e7190d6bcc98d4e72a",
+            "id": "69b9b54b190d6bcc983049e7",
             "name": "Lemon Pepper Rotisserie Chicken",
             "mrn": 22769,
             "rev": null,
@@ -361,7 +361,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e72d",
+            "id": "69b9b54b190d6bcc983049ec",
             "name": "Dirty Rice",
             "mrn": 548,
             "rev": null,
@@ -572,7 +572,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e72f",
+            "id": "69b9b54b190d6bcc983049ef",
             "name": "Sauteed Mushrooms",
             "mrn": 102288,
             "rev": null,
@@ -775,7 +775,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e733",
+            "id": "69b9b54b190d6bcc983049f6",
             "name": "Roasted Brussels Sprouts",
             "mrn": 75314,
             "rev": null,
@@ -954,7 +954,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e735",
+            "id": "69b9b54b190d6bcc983049fa",
             "name": "Vegan Refried Beans",
             "mrn": 21775,
             "rev": null,
@@ -1135,12 +1135,12 @@
         ]
       },
       {
-        "id": "69b95e6e956b17144fd59a31",
+        "id": "69b9b2cf956b17144fd9f628",
         "name": "Exhibition",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69b960e7190d6bcc98d4e8e6",
+            "id": "69b9b54b190d6bcc98304cd8",
             "name": "Pork Roast",
             "mrn": 1490,
             "rev": null,
@@ -1335,7 +1335,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e8e8",
+            "id": "69b9b54b190d6bcc98304cdb",
             "name": "Sauteed Squash",
             "mrn": 103200,
             "rev": null,
@@ -1522,7 +1522,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e8e2",
+            "id": "69b9b54b190d6bcc98304cd2",
             "name": "Roasted Potatoes",
             "mrn": 106424,
             "rev": null,
@@ -1717,7 +1717,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e8eb",
+            "id": "69b9b54b190d6bcc98304cde",
             "name": "Fried Plantains",
             "mrn": 103920,
             "rev": null,
@@ -1896,7 +1896,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e8ed",
+            "id": "69b9b54b190d6bcc98304cdf",
             "name": "Pan Rolls",
             "mrn": 47482,
             "rev": null,
@@ -2101,18 +2101,18 @@
         ]
       },
       {
-        "id": "69b95e6e956b17144fd59a34",
+        "id": "69b9b2cf956b17144fd9f62b",
         "name": "Grill",
         "sortOrder": 2,
         "items": []
       },
       {
-        "id": "69b95e6e956b17144fd59a2d",
+        "id": "69b9b2cf956b17144fd9f61e",
         "name": "Daily Grill",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69b960e7190d6bcc98d4e482",
+            "id": "69b9b54b190d6bcc98304674",
             "name": "Veggie Burger",
             "mrn": 100441,
             "rev": null,
@@ -2371,7 +2371,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e46f",
+            "id": "69b9b54b190d6bcc9830466f",
             "name": "French Fries",
             "mrn": 8414,
             "rev": null,
@@ -2531,16 +2531,227 @@
               }
             ],
             "filters": []
+          },
+          {
+            "id": "69b9b54b190d6bcc98304677",
+            "name": "Ham and Cheese Puff Pastry",
+            "mrn": 90481,
+            "rev": null,
+            "mrnFull": "90481.0",
+            "desc": "",
+            "webtritionId": null,
+            "sortOrder": 4,
+            "portion": "1 each",
+            "qty": null,
+            "ingredients": "Puff Pastry Dough^, Black Forest Ham^, Reduced Fat Swiss Cheese^, Egg, Apricot Preserves^",
+            "calories": 420,
+            "customAllergens": [],
+            "nutrients": [
+              {
+                "id": null,
+                "name": "Calories",
+                "value": "420",
+                "uom": "kcal",
+                "valueNumeric": "420",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Protein (g)",
+                "value": "17",
+                "uom": "g",
+                "valueNumeric": "17",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Total Carbohydrates (g)",
+                "value": "23",
+                "uom": "g",
+                "valueNumeric": "23",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Sugar (g)",
+                "value": "5",
+                "uom": "g",
+                "valueNumeric": "5",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Total Fat (g)",
+                "value": "28",
+                "uom": "g",
+                "valueNumeric": "28",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Saturated Fat (g)",
+                "value": "14",
+                "uom": "g",
+                "valueNumeric": "14",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Cholesterol (mg)",
+                "value": "75",
+                "uom": "mg",
+                "valueNumeric": "75",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Dietary Fiber (g)",
+                "value": "1",
+                "uom": "g",
+                "valueNumeric": "1",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Sodium (mg)",
+                "value": "510",
+                "uom": "mg",
+                "valueNumeric": "510",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Potassium (mg)",
+                "value": "120",
+                "uom": "mg",
+                "valueNumeric": "120",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Calcium (mg)",
+                "value": "290",
+                "uom": "mg",
+                "valueNumeric": "290",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Iron (mg)",
+                "value": "1.6",
+                "uom": "mg",
+                "valueNumeric": "1.6",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Trans Fat (g)",
+                "value": "-",
+                "uom": "g",
+                "valueNumeric": "-",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Vitamin D (IU)",
+                "value": "20",
+                "uom": "IU",
+                "valueNumeric": "20",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Vitamin C (mg)",
+                "value": "1+",
+                "uom": "mg",
+                "valueNumeric": "1+",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Calories From Fat",
+                "value": "250",
+                "uom": "kcal",
+                "valueNumeric": "250",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Vitamin A (RE)",
+                "value": "50+",
+                "uom": "RE",
+                "valueNumeric": "50+",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Saturated Fat + Trans Fat (g)",
+                "value": "15",
+                "uom": "g",
+                "valueNumeric": "15",
+                "test": "test"
+              }
+            ],
+            "filters": [
+              {
+                "id": "67859fb4c625af07639264d1",
+                "name": "Egg",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264d6",
+                "name": "Gluten",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264d7",
+                "name": "Milk",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264e5",
+                "name": "Pork",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264dc",
+                "name": "Wheat",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264d4",
+                "name": "Good Source of Protein",
+                "icon": true,
+                "remoteFileName": "CHE Protein.jpg",
+                "sectorIconId": "1574",
+                "customIcons": []
+              }
+            ]
           }
         ]
       },
       {
-        "id": "69b95e6e956b17144fd59a2e",
+        "id": "69b9b2cf956b17144fd9f61f",
         "name": "Grill Condiments",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69b960e7190d6bcc98d4e5bf",
+            "id": "69b9b54b190d6bcc98304783",
             "name": "Lettuce Leaf",
             "mrn": 14957,
             "rev": null,
@@ -2719,7 +2930,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e5bb",
+            "id": "69b9b54b190d6bcc9830477f",
             "name": "Sliced Tomatoes",
             "mrn": 47955,
             "rev": null,
@@ -2906,7 +3117,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e5b9",
+            "id": "69b9b54b190d6bcc9830477b",
             "name": "Dill Pickle Slices",
             "mrn": 63438,
             "rev": null,
@@ -3101,7 +3312,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e5b6",
+            "id": "69b9b54b190d6bcc98304777",
             "name": "Sliced Red Onion",
             "mrn": 14918,
             "rev": null,
@@ -3290,12 +3501,12 @@
         ]
       },
       {
-        "id": "69b95e6e956b17144fd59a32",
+        "id": "69b9b2cf956b17144fd9f629",
         "name": "Pizza CCS",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69b960e7190d6bcc98d4e8f3",
+            "id": "69b9b54b190d6bcc98304ce7",
             "name": "Cheese Pizza",
             "mrn": 103574,
             "rev": null,
@@ -3538,7 +3749,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e8f0",
+            "id": "69b9b54b190d6bcc98304ce1",
             "name": "Pepperoni Pizza",
             "mrn": 103896,
             "rev": null,
@@ -3805,7 +4016,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e8fe",
+            "id": "69b9b54b190d6bcc98304cf7",
             "name": "Roasted Vegetable Pizza",
             "mrn": 27901,
             "rev": null,
@@ -4064,7 +4275,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e8f9",
+            "id": "69b9b54b190d6bcc98304cf0",
             "name": "Crushed Red Pepper",
             "mrn": 63317,
             "rev": null,
@@ -4243,7 +4454,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e8f5",
+            "id": "69b9b54b190d6bcc98304cec",
             "name": "Dried Oregano",
             "mrn": 76771,
             "rev": null,
@@ -4422,7 +4633,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e8fb",
+            "id": "69b9b54b190d6bcc98304cf3",
             "name": "Grated Parmesan Cheese",
             "mrn": 62346,
             "rev": null,
@@ -4603,12 +4814,12 @@
         ]
       },
       {
-        "id": "69b95e6e956b17144fd59a33",
+        "id": "69b9b2cf956b17144fd9f62a",
         "name": "Pasta CCS",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69b960e7190d6bcc98d4e900",
+            "id": "69b9b54b190d6bcc98304cfb",
             "name": "Crostini",
             "mrn": 8286,
             "rev": null,
@@ -4819,7 +5030,7 @@
             ]
           },
           {
-            "id": "69b960e7190d6bcc98d4e903",
+            "id": "69b9b54b190d6bcc98304d00",
             "name": "Baked Pasta Al Forno",
             "mrn": 40405,
             "rev": null,
@@ -5051,8 +5262,8 @@
   },
   "closedOnDate": false,
   "status": {
-    "label": "open",
-    "message": "Open. Closes at 4:30pm.",
-    "color": "green"
+    "label": "closed",
+    "message": "Closed. Opens in 29 minutes.",
+    "color": "orange"
   }
 }
