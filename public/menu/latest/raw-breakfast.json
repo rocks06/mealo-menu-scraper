@@ -3,17 +3,17 @@
   "locationId": "58739aa53191a200e44eaaaf",
   "date": "2026-03-18",
   "period": {
-    "id": "69baaff4956b17144fe7081e",
+    "id": "69bb0462956b17144feb5d77",
     "name": "Breakfast",
     "slug": null,
     "categories": [
       {
-        "id": "69baaff4956b17144fe7080f",
+        "id": "69bb0462956b17144feb5d3f",
         "name": "Exhibition",
         "sortOrder": 0,
         "items": [
           {
-            "id": "69bab276190d6bcc98ee428c",
+            "id": "69bb06d3190d6bcc98285934",
             "name": "Omelet Bar",
             "mrn": 128444,
             "rev": null,
@@ -175,7 +175,7 @@
             "filters": []
           },
           {
-            "id": "69bab276190d6bcc98ee42c0",
+            "id": "69bb06d3190d6bcc98285963",
             "name": " Diced Onions",
             "mrn": 13404,
             "rev": null,
@@ -362,7 +362,7 @@
             ]
           },
           {
-            "id": "69bab276190d6bcc98ee42b4",
+            "id": "69bb06d3190d6bcc98285959",
             "name": "Chopped Green Bell Pepper",
             "mrn": 63065,
             "rev": null,
@@ -541,7 +541,7 @@
             ]
           },
           {
-            "id": "69bab276190d6bcc98ee4298",
+            "id": "69bb06d3190d6bcc98285943",
             "name": "Scrambled Eggs",
             "mrn": 51687,
             "rev": null,
@@ -728,7 +728,7 @@
             ]
           },
           {
-            "id": "69bab276190d6bcc98ee4292",
+            "id": "69bb06d3190d6bcc9828593c",
             "name": "Shredded Monterey Jack Cheese",
             "mrn": 75797,
             "rev": null,
@@ -907,7 +907,7 @@
             ]
           },
           {
-            "id": "69bab276190d6bcc98ee42b9",
+            "id": "69bb06d3190d6bcc9828595f",
             "name": "Sliced Mushrooms",
             "mrn": 62338,
             "rev": null,
@@ -1104,12 +1104,12 @@
         ]
       },
       {
-        "id": "69baaff4956b17144fe70810",
+        "id": "69bb0462956b17144feb5d40",
         "name": "Grill",
         "sortOrder": 0,
         "items": [
           {
-            "id": "69bab276190d6bcc98ee42ad",
+            "id": "69bb06d3190d6bcc98285954",
             "name": "Scrambled Eggs",
             "mrn": 2032,
             "rev": null,
@@ -1296,7 +1296,7 @@
             ]
           },
           {
-            "id": "69bab276190d6bcc98ee429f",
+            "id": "69bb06d3190d6bcc98285947",
             "name": "Chef's Choice",
             "mrn": 51783,
             "rev": null,
@@ -1458,7 +1458,7 @@
             "filters": []
           },
           {
-            "id": "69bab276190d6bcc98ee42a6",
+            "id": "69bb06d3190d6bcc9828594f",
             "name": "Scrambled Egg Whites",
             "mrn": 2031,
             "rev": null,
@@ -1666,8 +1666,8 @@
   },
   "closedOnDate": false,
   "status": {
-    "label": "open",
-    "message": "Open. Closes at 4:30pm.",
-    "color": "green"
+    "label": "closed",
+    "message": "Closed. Opens in 29 minutes.",
+    "color": "orange"
   }
 }
