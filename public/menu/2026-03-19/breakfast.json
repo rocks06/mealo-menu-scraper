@@ -8,7 +8,7 @@
       "sortOrder": 0,
       "items": [
         {
-          "id": "69bc03f3190d6bcc98f6af0a",
+          "id": "69bc5859190d6bcc98483a33",
           "name": "Omelet Bar",
           "portion": "1 plate",
           "ingredients": "Water",
@@ -22,7 +22,7 @@
           "tags": []
         },
         {
-          "id": "69bc03f3190d6bcc98f6af06",
+          "id": "69bc5859190d6bcc98483a2d",
           "name": "Chopped Spinach",
           "portion": "1/4 cup",
           "ingredients": "Spinach",
@@ -39,7 +39,7 @@
           ]
         },
         {
-          "id": "69bc03f3190d6bcc98f6af15",
+          "id": "69bc5859190d6bcc98483a56",
           "name": "Sliced Mushrooms",
           "portion": "1 tbsp",
           "ingredients": "Mushrooms",
@@ -58,7 +58,7 @@
           ]
         },
         {
-          "id": "69bc03f3190d6bcc98f6af0f",
+          "id": "69bc5859190d6bcc98483a3e",
           "name": "Scrambled Eggs",
           "portion": "2 ounce",
           "ingredients": "Liquid Egg^",
@@ -76,7 +76,7 @@
           ]
         },
         {
-          "id": "69bc03f3190d6bcc98f6af18",
+          "id": "69bc5859190d6bcc98483a5b",
           "name": "Chopped Green Bell Pepper",
           "portion": "1 tbsp",
           "ingredients": "Green Bell Peppers",
@@ -93,7 +93,7 @@
           ]
         },
         {
-          "id": "69bc03f3190d6bcc98f6af0c",
+          "id": "69bc5859190d6bcc98483a39",
           "name": "Shredded Monterey Jack Cheese",
           "portion": "1 tbsp",
           "ingredients": "Monterey Jack Cheese^",
@@ -116,7 +116,7 @@
       "sortOrder": 0,
       "items": [
         {
-          "id": "69bc03f3190d6bcc98f6af13",
+          "id": "69bc5859190d6bcc98483a4f",
           "name": "Scrambled Eggs",
           "portion": "1/2 cup",
           "ingredients": "Liquid Egg^, Canola Oil",
@@ -134,7 +134,7 @@
           ]
         },
         {
-          "id": "69bc03f3190d6bcc98f6af10",
+          "id": "69bc5859190d6bcc98483a42",
           "name": "Chef's Choice",
           "portion": "1 tsp",
           "ingredients": "Water",
@@ -148,7 +148,7 @@
           "tags": []
         },
         {
-          "id": "69bc03f3190d6bcc98f6af11",
+          "id": "69bc5859190d6bcc98483a49",
           "name": "Scrambled Egg Whites",
           "portion": "1/2 cup",
           "ingredients": "Liquid Egg White^, Fat Free Milk^, Cooking Spray^",
