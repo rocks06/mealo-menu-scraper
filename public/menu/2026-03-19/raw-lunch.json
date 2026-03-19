@@ -3,17 +3,17 @@
   "locationId": "58739aa53191a200e44eaaaf",
   "date": "2026-03-19",
   "period": {
-    "id": "69bbc933956b17144ff58cc4",
+    "id": "69bc0169956b17144ff86f5c",
     "name": "Lunch",
     "slug": null,
     "categories": [
       {
-        "id": "69bbc933956b17144ff58ca9",
+        "id": "69bc0169956b17144ff86f41",
         "name": "Deli CCS",
         "sortOrder": 1,
         "items": [
           {
-            "id": "69bbcbb6190d6bcc98b57401",
+            "id": "69bc03f2190d6bcc98f6a01f",
             "name": "Deli Sandwich Bar",
             "mrn": 27584,
             "rev": null,
@@ -322,12 +322,12 @@
         ]
       },
       {
-        "id": "69bbc933956b17144ff58caa",
+        "id": "69bc0169956b17144ff86f42",
         "name": "Comfort",
         "sortOrder": 1,
         "items": [
           {
-            "id": "69bbcbb6190d6bcc98b57412",
+            "id": "69bc03f2190d6bcc98f6a030",
             "name": "Beef Bolognese",
             "mrn": 129235,
             "rev": null,
@@ -554,7 +554,7 @@
             ]
           },
           {
-            "id": "69bbcbb6190d6bcc98b57419",
+            "id": "69bc03f2190d6bcc98f6a035",
             "name": "Herbed Penne Pasta",
             "mrn": 14387,
             "rev": null,
@@ -749,7 +749,7 @@
             ]
           },
           {
-            "id": "69bbcbb6190d6bcc98b5741e",
+            "id": "69bc03f2190d6bcc98f6a03e",
             "name": "Asparagus with Garlic",
             "mrn": 32803,
             "rev": null,
@@ -960,7 +960,7 @@
             ]
           },
           {
-            "id": "69bbcbb6190d6bcc98b57426",
+            "id": "69bc03f2190d6bcc98f6a044",
             "name": "Roasted Yellow Squash",
             "mrn": 8122,
             "rev": null,
@@ -1139,7 +1139,7 @@
             ]
           },
           {
-            "id": "69bbcbb6190d6bcc98b5742d",
+            "id": "69bc03f2190d6bcc98f6a04a",
             "name": "Tuscan Chickpea Stew",
             "mrn": 36462,
             "rev": null,
@@ -1368,12 +1368,12 @@
         ]
       },
       {
-        "id": "69bbc933956b17144ff58cab",
+        "id": "69bc0169956b17144ff86f43",
         "name": "Exhibition",
         "sortOrder": 1,
         "items": [
           {
-            "id": "69bbcbb7190d6bcc98b57e99",
+            "id": "69bc03f3190d6bcc98f6abd1",
             "name": "Lime Cilantro Chicken",
             "mrn": 5398,
             "rev": null,
@@ -1616,7 +1616,7 @@
             ]
           },
           {
-            "id": "69bbcbb7190d6bcc98b57e3c",
+            "id": "69bc03f3190d6bcc98f6abb0",
             "name": "White Rice",
             "mrn": 103814,
             "rev": null,
@@ -1803,7 +1803,7 @@
             ]
           },
           {
-            "id": "69bbcbb7190d6bcc98b57e43",
+            "id": "69bc03f3190d6bcc98f6abb2",
             "name": "Roasted Zucchini",
             "mrn": 8122,
             "rev": null,
@@ -1982,7 +1982,7 @@
             ]
           },
           {
-            "id": "69bbcbb7190d6bcc98b57e4b",
+            "id": "69bc03f3190d6bcc98f6abb4",
             "name": "Sauteed Mushrooms",
             "mrn": 102288,
             "rev": null,
@@ -2185,7 +2185,7 @@
             ]
           },
           {
-            "id": "69bbcbb7190d6bcc98b57e51",
+            "id": "69bc03f3190d6bcc98f6abb6",
             "name": "Pan Rolls",
             "mrn": 47482,
             "rev": null,
@@ -2390,12 +2390,12 @@
         ]
       },
       {
-        "id": "69bbc933956b17144ff58cac",
+        "id": "69bc0169956b17144ff86f44",
         "name": "Grill",
         "sortOrder": 1,
         "items": [
           {
-            "id": "69bbcbb7190d6bcc98b57e57",
+            "id": "69bc03f3190d6bcc98f6abb9",
             "name": "Seasoned Burger Beef",
             "mrn": 170865,
             "rev": null,
@@ -2598,63 +2598,31 @@
             ]
           },
           {
-            "id": "69bbcbb7190d6bcc98b57e93",
-            "name": "Beef Hot Dog with Bun",
-            "mrn": 6062,
+            "id": "69bc03f3190d6bcc98f6abda",
+            "name": "Corn Dog",
+            "mrn": 142443,
             "rev": null,
-            "mrnFull": "6062.18",
-            "desc": "An American classic all beef hot dog",
+            "mrnFull": "142443.0",
+            "desc": "Made with classic chicken, turkey, pork and beef hot dogs Coated with our homestyle, honey-sweetened cornbread batter for a golden brown appearance",
             "webtritionId": null,
             "sortOrder": 2,
             "portion": "1 each",
             "qty": null,
-            "ingredients": "Beef Hot Dog^, Hot Dog Bun^",
-            "calories": 340,
+            "ingredients": "Corn Dog^",
+            "calories": 300,
             "customAllergens": [],
             "nutrients": [
               {
                 "id": null,
                 "name": "Calories",
-                "value": "340",
+                "value": "300",
                 "uom": "kcal",
-                "valueNumeric": "340",
+                "valueNumeric": "300",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Protein (g)",
-                "value": "12",
-                "uom": "g",
-                "valueNumeric": "12",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Total Carbohydrates (g)",
-                "value": "21",
-                "uom": "g",
-                "valueNumeric": "21",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Sugar (g)",
-                "value": "3",
-                "uom": "g",
-                "valueNumeric": "3",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Total Fat (g)",
-                "value": "23",
-                "uom": "g",
-                "valueNumeric": "23",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Saturated Fat (g)",
                 "value": "9",
                 "uom": "g",
                 "valueNumeric": "9",
@@ -2662,10 +2630,42 @@
               },
               {
                 "id": null,
+                "name": "Total Carbohydrates (g)",
+                "value": "32",
+                "uom": "g",
+                "valueNumeric": "32",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Sugar (g)",
+                "value": "10",
+                "uom": "g",
+                "valueNumeric": "10",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Total Fat (g)",
+                "value": "15",
+                "uom": "g",
+                "valueNumeric": "15",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Saturated Fat (g)",
+                "value": "3.5",
+                "uom": "g",
+                "valueNumeric": "3.5",
+                "test": "test"
+              },
+              {
+                "id": null,
                 "name": "Cholesterol (mg)",
-                "value": "45",
+                "value": "35",
                 "uom": "mg",
-                "valueNumeric": "45",
+                "valueNumeric": "35",
                 "test": "test"
               },
               {
@@ -2679,49 +2679,49 @@
               {
                 "id": null,
                 "name": "Sodium (mg)",
-                "value": "800",
+                "value": "510",
                 "uom": "mg",
-                "valueNumeric": "800",
+                "valueNumeric": "510",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Potassium (mg)",
-                "value": "220",
+                "value": "290",
                 "uom": "mg",
-                "valueNumeric": "220",
+                "valueNumeric": "290",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Calcium (mg)",
-                "value": "40",
+                "value": "30",
                 "uom": "mg",
-                "valueNumeric": "40",
+                "valueNumeric": "30",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Iron (mg)",
-                "value": "2.2",
+                "value": "1.6",
                 "uom": "mg",
-                "valueNumeric": "2.2",
+                "valueNumeric": "1.6",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Trans Fat (g)",
-                "value": "-",
+                "value": "0",
                 "uom": "g",
-                "valueNumeric": "-",
+                "valueNumeric": "0",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Vitamin D (IU)",
-                "value": "30",
+                "value": "0",
                 "uom": "IU",
-                "valueNumeric": "30",
+                "valueNumeric": "0",
                 "test": "test"
               },
               {
@@ -2735,25 +2735,25 @@
               {
                 "id": null,
                 "name": "Calories From Fat",
-                "value": "210",
+                "value": "130",
                 "uom": "kcal",
-                "valueNumeric": "210",
+                "valueNumeric": "130",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Vitamin A (RE)",
-                "value": "-",
+                "value": "0",
                 "uom": "RE",
-                "valueNumeric": "-",
+                "valueNumeric": "0",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Saturated Fat + Trans Fat (g)",
-                "value": "10",
+                "value": "5",
                 "uom": "g",
-                "valueNumeric": "10",
+                "valueNumeric": "5",
                 "test": "test"
               }
             ],
@@ -2761,6 +2761,14 @@
               {
                 "id": "67859fb5c625af07639264e4",
                 "name": "Beef",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
+              {
+                "id": "67859fb4c625af07639264d1",
+                "name": "Egg",
                 "icon": false,
                 "remoteFileName": null,
                 "sectorIconId": null,
@@ -2775,8 +2783,40 @@
                 "customIcons": []
               },
               {
-                "id": "67859fb5c625af07639264e9",
-                "name": "Soy*",
+                "id": "67859fb5c625af07639264d7",
+                "name": "Milk",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264da",
+                "name": "Onion",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264e5",
+                "name": "Pork",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264e7",
+                "name": "Poultry",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264db",
+                "name": "Soy",
                 "icon": false,
                 "remoteFileName": null,
                 "sectorIconId": null,
@@ -2801,7 +2841,7 @@
             ]
           },
           {
-            "id": "69bbcbb7190d6bcc98b57e31",
+            "id": "69bc03f3190d6bcc98f6abad",
             "name": "Sweet Potato Fries",
             "mrn": 25179,
             "rev": null,
@@ -2974,12 +3014,12 @@
         ]
       },
       {
-        "id": "69bbc933956b17144ff58ca8",
+        "id": "69bc0169956b17144ff86f40",
         "name": "Grill Condiments",
         "sortOrder": 1,
         "items": [
           {
-            "id": "69bbcbb6190d6bcc98b5718a",
+            "id": "69bc03f2190d6bcc98f69da6",
             "name": "Lettuce Leaf",
             "mrn": 14957,
             "rev": null,
@@ -3158,7 +3198,7 @@
             ]
           },
           {
-            "id": "69bbcbb6190d6bcc98b57188",
+            "id": "69bc03f2190d6bcc98f69da2",
             "name": "Sliced Tomatoes",
             "mrn": 47955,
             "rev": null,
@@ -3345,7 +3385,7 @@
             ]
           },
           {
-            "id": "69bbcbb6190d6bcc98b57185",
+            "id": "69bc03f2190d6bcc98f69d9c",
             "name": "Dill Pickle Slices",
             "mrn": 63438,
             "rev": null,
@@ -3540,7 +3580,7 @@
             ]
           },
           {
-            "id": "69bbcbb6190d6bcc98b57182",
+            "id": "69bc03f2190d6bcc98f69d92",
             "name": "Sliced Red Onion",
             "mrn": 46017,
             "rev": null,
@@ -3729,12 +3769,12 @@
         ]
       },
       {
-        "id": "69bbc933956b17144ff58cad",
+        "id": "69bc0169956b17144ff86f45",
         "name": "Pizza CCS",
         "sortOrder": 1,
         "items": [
           {
-            "id": "69bbcbb7190d6bcc98b57e5d",
+            "id": "69bc03f3190d6bcc98f6abbb",
             "name": "Cheese Pizza",
             "mrn": 103574,
             "rev": null,
@@ -3977,7 +4017,7 @@
             ]
           },
           {
-            "id": "69bbcbb7190d6bcc98b57e66",
+            "id": "69bc03f3190d6bcc98f6abbe",
             "name": "Crushed Red Pepper",
             "mrn": 63317,
             "rev": null,
@@ -4156,7 +4196,7 @@
             ]
           },
           {
-            "id": "69bbcbb7190d6bcc98b57e73",
+            "id": "69bc03f3190d6bcc98f6abc3",
             "name": "Dried Oregano",
             "mrn": 76771,
             "rev": null,
@@ -4335,7 +4375,7 @@
             ]
           },
           {
-            "id": "69bbcbb7190d6bcc98b57e6b",
+            "id": "69bc03f3190d6bcc98f6abc1",
             "name": "Grated Parmesan Cheese",
             "mrn": 62346,
             "rev": null,
@@ -4514,7 +4554,7 @@
             ]
           },
           {
-            "id": "69bbcbb7190d6bcc98b57e79",
+            "id": "69bc03f3190d6bcc98f6abc5",
             "name": "Vegetable Pizza",
             "mrn": 1387,
             "rev": null,
@@ -4735,12 +4775,12 @@
         ]
       },
       {
-        "id": "69bbc933956b17144ff58cae",
+        "id": "69bc0169956b17144ff86f46",
         "name": "Pasta CCS",
         "sortOrder": 1,
         "items": [
           {
-            "id": "69bbcbb7190d6bcc98b57e9e",
+            "id": "69bc03f3190d6bcc98f6abd2",
             "name": "Penne with Herbs",
             "mrn": 7716,
             "rev": null,
@@ -4935,7 +4975,7 @@
             ]
           },
           {
-            "id": "69bbcbb7190d6bcc98b57e81",
+            "id": "69bc03f3190d6bcc98f6abc8",
             "name": "Crostini",
             "mrn": 8286,
             "rev": null,
@@ -5146,7 +5186,7 @@
             ]
           },
           {
-            "id": "69bbcbb7190d6bcc98b57ea5",
+            "id": "69bc03f3190d6bcc98f6abd5",
             "name": "Marinara Sauce",
             "mrn": 330,
             "rev": null,
@@ -5357,7 +5397,7 @@
             ]
           },
           {
-            "id": "69bbcbb7190d6bcc98b57eaa",
+            "id": "69bc03f3190d6bcc98f6abd8",
             "name": "Alfredo Sauce",
             "mrn": 82075,
             "rev": null,
@@ -5582,7 +5622,7 @@
   "closedOnDate": false,
   "status": {
     "label": "open",
-    "message": "Open. Closes at 10:30am.",
+    "message": "Open. Closes at 4:30pm.",
     "color": "green"
   }
 }
