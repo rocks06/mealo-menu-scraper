@@ -8,7 +8,7 @@
       "sortOrder": 0,
       "items": [
         {
-          "id": "69bd555a190d6bcc98117a34",
+          "id": "69bda9b7190d6bcc984eb381",
           "name": "Omelet Bar",
           "portion": "1 plate",
           "ingredients": "Water",
@@ -22,7 +22,7 @@
           "tags": []
         },
         {
-          "id": "69bd555a190d6bcc98117a4f",
+          "id": "69bda9b7190d6bcc984eb3a9",
           "name": "Chopped Spinach",
           "portion": "1 ounce",
           "ingredients": "Spinach",
@@ -39,7 +39,7 @@
           ]
         },
         {
-          "id": "69bd555a190d6bcc98117a53",
+          "id": "69bda9b7190d6bcc984eb3b0",
           "name": "Diced Onions",
           "portion": "1 tbsp",
           "ingredients": "Yellow Onions",
@@ -57,7 +57,24 @@
           ]
         },
         {
-          "id": "69bd555a190d6bcc98117a3e",
+          "id": "69bda9b7190d6bcc984eb2ff",
+          "name": "Chopped Green Bell Pepper",
+          "portion": "1 tbsp",
+          "ingredients": "Green Bell Peppers",
+          "calories": null,
+          "macros": {
+            "protein_g": null,
+            "carbs_g": null,
+            "fat_g": null
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69bda9b7190d6bcc984eb38c",
           "name": "Scrambled Eggs",
           "portion": "2 ounce",
           "ingredients": "Liquid Egg^",
@@ -75,24 +92,7 @@
           ]
         },
         {
-          "id": "69bd555a190d6bcc98117a5a",
-          "name": "Chopped Green Bell Pepper",
-          "portion": "1 tbsp",
-          "ingredients": "Green Bell Peppers",
-          "calories": null,
-          "macros": {
-            "protein_g": null,
-            "carbs_g": null,
-            "fat_g": null
-          },
-          "allergens": [],
-          "tags": [
-            "[object Object]",
-            "[object Object]"
-          ]
-        },
-        {
-          "id": "69bd555a190d6bcc98117a38",
+          "id": "69bda9b7190d6bcc984eb388",
           "name": "Shredded Monterey Jack Cheese",
           "portion": "1 tbsp",
           "ingredients": "Monterey Jack Cheese^",
@@ -115,7 +115,7 @@
       "sortOrder": 0,
       "items": [
         {
-          "id": "69bd555a190d6bcc98117a4b",
+          "id": "69bda9b7190d6bcc984eb3a2",
           "name": "Scrambled Eggs",
           "portion": "1/2 cup",
           "ingredients": "Liquid Egg^, Canola Oil",
@@ -133,7 +133,7 @@
           ]
         },
         {
-          "id": "69bd555a190d6bcc98117a42",
+          "id": "69bda9b7190d6bcc984eb394",
           "name": "Chef's Choice",
           "portion": "1 tsp",
           "ingredients": "Water",
@@ -147,7 +147,7 @@
           "tags": []
         },
         {
-          "id": "69bd555a190d6bcc98117a46",
+          "id": "69bda9b7190d6bcc984eb39c",
           "name": "Turkey Sausage Links",
           "portion": "1 each",
           "ingredients": "Turkey Sausage^",
