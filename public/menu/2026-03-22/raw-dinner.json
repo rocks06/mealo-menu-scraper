@@ -3,17 +3,17 @@
   "locationId": "58739aa53191a200e44eaaaf",
   "date": "2026-03-22",
   "period": {
-    "id": "69c004077ca5edd369352bb2",
+    "id": "69c04a617ca5edd36938c9d8",
     "name": "Dinner",
     "slug": null,
     "categories": [
       {
-        "id": "69c004077ca5edd369352b9e",
+        "id": "69c04a617ca5edd36938c9c4",
         "name": "Deli CCS",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69c0067e190d6bcc9899a933",
+            "id": "69c04ce7190d6bcc987b034c",
             "name": "Chef's Choice",
             "mrn": 51783,
             "rev": null,
@@ -177,12 +177,12 @@
         ]
       },
       {
-        "id": "69c004077ca5edd369352b9f",
+        "id": "69c04a617ca5edd36938c9c5",
         "name": "Comfort",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69c0067e190d6bcc9899ab3e",
+            "id": "69c04ce7190d6bcc987b05cb",
             "name": "Mongolian Beef",
             "mrn": 10895,
             "rev": null,
@@ -417,7 +417,7 @@
             ]
           },
           {
-            "id": "69c0067e190d6bcc9899ab45",
+            "id": "69c04ce7190d6bcc987b05d6",
             "name": "Chili Cumin Roasted Potatoes ",
             "mrn": 41510,
             "rev": null,
@@ -612,7 +612,7 @@
             ]
           },
           {
-            "id": "69c0067e190d6bcc9899ab32",
+            "id": "69c04ce7190d6bcc987b05bc",
             "name": "Cider Roasted Vegetables",
             "mrn": 102494,
             "rev": null,
@@ -799,7 +799,7 @@
             ]
           },
           {
-            "id": "69c0067e190d6bcc9899ab41",
+            "id": "69c04ce7190d6bcc987b05d0",
             "name": "Okra and Tomatoes",
             "mrn": 102718,
             "rev": null,
@@ -1020,12 +1020,12 @@
         ]
       },
       {
-        "id": "69c004077ca5edd369352ba0",
+        "id": "69c04a617ca5edd36938c9c6",
         "name": "Exhibition",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69c0067e190d6bcc9899ab3b",
+            "id": "69c04ce7190d6bcc987b05c6",
             "name": "BBQ Chicken",
             "mrn": 28153,
             "rev": null,
@@ -1244,7 +1244,7 @@
             ]
           },
           {
-            "id": "69c0067e190d6bcc9899ab4d",
+            "id": "69c04ce7190d6bcc987b05e1",
             "name": "Yellow Rice",
             "mrn": 547,
             "rev": null,
@@ -1463,7 +1463,7 @@
             ]
           },
           {
-            "id": "69c0067e190d6bcc9899ab36",
+            "id": "69c04ce7190d6bcc987b05bf",
             "name": "Cumin Roasted Cauliflower and Peas",
             "mrn": 176687,
             "rev": null,
@@ -1650,7 +1650,7 @@
             ]
           },
           {
-            "id": "69c0067e190d6bcc9899ab4a",
+            "id": "69c04ce7190d6bcc987b05da",
             "name": "Corn with Pimento",
             "mrn": 2423,
             "rev": null,
@@ -1829,7 +1829,7 @@
             ]
           },
           {
-            "id": "69c0067e190d6bcc9899ab54",
+            "id": "69c04ce7190d6bcc987b05e7",
             "name": "Pan Rolls",
             "mrn": 47482,
             "rev": null,
@@ -2032,7 +2032,7 @@
             ]
           },
           {
-            "id": "69c0067e190d6bcc9899ab57",
+            "id": "69c04ce7190d6bcc987b05ed",
             "name": "Garden Salad",
             "mrn": 28513,
             "rev": null,
@@ -2213,18 +2213,18 @@
         ]
       },
       {
-        "id": "69c004077ca5edd369352ba3",
+        "id": "69c04a617ca5edd36938c9c9",
         "name": "Grill",
         "sortOrder": 2,
         "items": []
       },
       {
-        "id": "69c004077ca5edd369352b9c",
+        "id": "69c04a617ca5edd36938c9c2",
         "name": "Daily Grill",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69c0067e190d6bcc9899a50d",
+            "id": "69c04ce7190d6bcc987b0293",
             "name": "Shoestring French Fries",
             "mrn": 8414,
             "rev": null,
@@ -2386,7 +2386,7 @@
             "filters": []
           },
           {
-            "id": "69c0067e190d6bcc9899a517",
+            "id": "69c04ce7190d6bcc987b029a",
             "name": "Veggie Burger",
             "mrn": 100441,
             "rev": null,
@@ -2645,7 +2645,7 @@
             ]
           },
           {
-            "id": "69c0067e190d6bcc9899a514",
+            "id": "69c04ce7190d6bcc987b0297",
             "name": "Hamburger on Bun",
             "mrn": 5305,
             "rev": null,
@@ -2850,12 +2850,12 @@
         ]
       },
       {
-        "id": "69c004077ca5edd369352b9d",
+        "id": "69c04a617ca5edd36938c9c3",
         "name": "Grill Condiments",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69c0067e190d6bcc9899a92f",
+            "id": "69c04ce7190d6bcc987b0347",
             "name": "Lettuce Leaf",
             "mrn": 14957,
             "rev": null,
@@ -3034,7 +3034,7 @@
             ]
           },
           {
-            "id": "69c0067e190d6bcc9899a92a",
+            "id": "69c04ce7190d6bcc987b0342",
             "name": "Sliced Tomatoes",
             "mrn": 47955,
             "rev": null,
@@ -3221,7 +3221,7 @@
             ]
           },
           {
-            "id": "69c0067e190d6bcc9899a927",
+            "id": "69c04ce7190d6bcc987b033d",
             "name": "Dill Pickle Slices",
             "mrn": 63438,
             "rev": null,
@@ -3416,7 +3416,7 @@
             ]
           },
           {
-            "id": "69c0067e190d6bcc9899a923",
+            "id": "69c04ce7190d6bcc987b033a",
             "name": "Sliced Red Onion",
             "mrn": 14918,
             "rev": null,
@@ -3605,12 +3605,12 @@
         ]
       },
       {
-        "id": "69c004077ca5edd369352ba1",
+        "id": "69c04a617ca5edd36938c9c7",
         "name": "Pizza CCS",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69c00681190d6bcc9899be05",
+            "id": "69c04ceb190d6bcc987b1d19",
             "name": "Cheese Pizza",
             "mrn": 103574,
             "rev": null,
@@ -3853,7 +3853,7 @@
             ]
           },
           {
-            "id": "69c00681190d6bcc9899be09",
+            "id": "69c04ceb190d6bcc987b1d1f",
             "name": "Pepperoni Pizza",
             "mrn": 103896,
             "rev": null,
@@ -4120,7 +4120,7 @@
             ]
           },
           {
-            "id": "69c00681190d6bcc9899be17",
+            "id": "69c04ceb190d6bcc987b1d37",
             "name": "Roasted Vegetable Pizza",
             "mrn": 27901,
             "rev": null,
@@ -4379,7 +4379,7 @@
             ]
           },
           {
-            "id": "69c00681190d6bcc9899be0e",
+            "id": "69c04ceb190d6bcc987b1d29",
             "name": "Crushed Red Pepper",
             "mrn": 63317,
             "rev": null,
@@ -4558,7 +4558,7 @@
             ]
           },
           {
-            "id": "69c00681190d6bcc9899be0c",
+            "id": "69c04ceb190d6bcc987b1d24",
             "name": "Dried Oregano",
             "mrn": 76771,
             "rev": null,
@@ -4737,7 +4737,7 @@
             ]
           },
           {
-            "id": "69c00681190d6bcc9899be13",
+            "id": "69c04ceb190d6bcc987b1d31",
             "name": "Grated Parmesan Cheese",
             "mrn": 62346,
             "rev": null,
@@ -4918,12 +4918,12 @@
         ]
       },
       {
-        "id": "69c004077ca5edd369352ba2",
+        "id": "69c04a617ca5edd36938c9c8",
         "name": "Pasta CCS",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69c00681190d6bcc9899be1b",
+            "id": "69c04ceb190d6bcc987b1d3e",
             "name": "Crostini",
             "mrn": 8286,
             "rev": null,
@@ -5134,7 +5134,7 @@
             ]
           },
           {
-            "id": "69c00681190d6bcc9899be1e",
+            "id": "69c04ceb190d6bcc987b1d43",
             "name": "Baked Pasta Al Forno",
             "mrn": 40405,
             "rev": null,
@@ -5366,8 +5366,8 @@
   },
   "closedOnDate": false,
   "status": {
-    "label": "open",
-    "message": "Open. Closes at 3:00pm.",
-    "color": "green"
+    "label": "closed",
+    "message": "Closed. Opens at 5:30pm.",
+    "color": "red"
   }
 }
