@@ -3,17 +3,17 @@
   "locationId": "58739aa53191a200e44eaaaf",
   "date": "2026-03-23",
   "period": {
-    "id": "69c1476c7ca5edd36945d9c0",
+    "id": "69c19bc97ca5edd3694a33b7",
     "name": "Dinner",
     "slug": null,
     "categories": [
       {
-        "id": "69c1476c7ca5edd36945d9ac",
+        "id": "69c19bc87ca5edd3694a3383",
         "name": "Deli CCS",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69c149ed190d6bcc9884e636",
+            "id": "69c19e4d190d6bcc980792f0",
             "name": "Chef's Choice",
             "mrn": 51783,
             "rev": null,
@@ -177,159 +177,338 @@
         ]
       },
       {
-        "id": "69c1476c7ca5edd36945d9ad",
+        "id": "69c19bc97ca5edd3694a3384",
         "name": "Comfort",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69c149ee190d6bcc9884f41e",
-            "name": "Grilled Chicken Alfredo ",
-            "mrn": 106416,
+            "id": "69c19e4e190d6bcc9807a037",
+            "name": "Grilled Chicken Breast ",
+            "mrn": 30116,
             "rev": null,
-            "mrnFull": "106416.0",
-            "desc": "Grilled Chicken with Pasta Alfredo ",
+            "mrnFull": "30116.1",
+            "desc": "",
             "webtritionId": null,
             "sortOrder": 1,
-            "portion": "8 ounce",
+            "portion": "1 each",
             "qty": null,
-            "ingredients": "Chicken Breast^, Fettuccine^, Whole Milk^, Whipping Cream^, Parmesan Cheese^, Unsalted Butter, Canola Oil, All Purpose Flour^, Parmesan Cheese^, Kosher Salt^, Parsley, Garlic, Black Pepper, White Pepper",
-            "calories": 450,
+            "ingredients": "Chicken Breast^, Canola Oil, Kosher Salt^, Black Pepper",
+            "calories": 100,
             "customAllergens": [],
             "nutrients": [
               {
                 "id": null,
                 "name": "Calories",
-                "value": "450",
+                "value": "100",
                 "uom": "kcal",
-                "valueNumeric": "450",
+                "valueNumeric": "100",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Protein (g)",
-                "value": "42",
+                "value": "16",
                 "uom": "g",
-                "valueNumeric": "42",
+                "valueNumeric": "16",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Total Carbohydrates (g)",
-                "value": "41",
+                "value": "0",
                 "uom": "g",
-                "valueNumeric": "41",
+                "valueNumeric": "0",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Sugar (g)",
-                "value": "2",
+                "value": "0",
                 "uom": "g",
-                "valueNumeric": "2",
+                "valueNumeric": "0",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Total Fat (g)",
-                "value": "13",
+                "value": "4",
                 "uom": "g",
-                "valueNumeric": "13",
+                "valueNumeric": "4",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Saturated Fat (g)",
-                "value": "5",
+                "value": "0.5",
                 "uom": "g",
-                "valueNumeric": "5",
+                "valueNumeric": "0.5",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Cholesterol (mg)",
-                "value": "130",
+                "value": "50",
                 "uom": "mg",
-                "valueNumeric": "130",
+                "valueNumeric": "50",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Dietary Fiber (g)",
-                "value": "2",
+                "value": "0",
                 "uom": "g",
-                "valueNumeric": "2",
+                "valueNumeric": "0",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Sodium (mg)",
-                "value": "730",
+                "value": "300",
                 "uom": "mg",
-                "valueNumeric": "730",
+                "valueNumeric": "300",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Potassium (mg)",
-                "value": "460",
+                "value": "250",
                 "uom": "mg",
-                "valueNumeric": "460",
+                "valueNumeric": "250",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Calcium (mg)",
-                "value": "90",
+                "value": "10",
                 "uom": "mg",
-                "valueNumeric": "90",
+                "valueNumeric": "10",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Iron (mg)",
-                "value": "1.3",
+                "value": "0.4",
                 "uom": "mg",
-                "valueNumeric": "1.3",
+                "valueNumeric": "0.4",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Trans Fat (g)",
-                "value": "-",
+                "value": "0",
                 "uom": "g",
-                "valueNumeric": "-",
+                "valueNumeric": "0",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Vitamin D (IU)",
-                "value": "20",
+                "value": "0",
                 "uom": "IU",
-                "valueNumeric": "20",
+                "valueNumeric": "0",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Vitamin C (mg)",
-                "value": "1",
+                "value": "0",
                 "uom": "mg",
-                "valueNumeric": "1",
+                "valueNumeric": "0",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Calories From Fat",
-                "value": "120",
+                "value": "35",
                 "uom": "kcal",
-                "valueNumeric": "120",
+                "valueNumeric": "35",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Vitamin A (RE)",
-                "value": "-",
+                "value": "5+",
                 "uom": "RE",
-                "valueNumeric": "-",
+                "valueNumeric": "5+",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Saturated Fat + Trans Fat (g)",
+                "value": "0",
+                "uom": "g",
+                "valueNumeric": "0",
+                "test": "test"
+              }
+            ],
+            "filters": [
+              {
+                "id": "67859fb5c625af07639264e7",
+                "name": "Poultry",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264d4",
+                "name": "Good Source of Protein",
+                "icon": true,
+                "remoteFileName": "CHE Protein.jpg",
+                "sectorIconId": "1574",
+                "customIcons": []
+              }
+            ]
+          },
+          {
+            "id": "69c19e4e190d6bcc9807a041",
+            "name": "Penne Pasta ala Vodka",
+            "mrn": 125465,
+            "rev": null,
+            "mrnFull": "125465.5",
+            "desc": "Penne pasta, smooth, creamy tomato and vodka sauce finished with shaved parmesan cheese",
+            "webtritionId": null,
+            "sortOrder": 2,
+            "portion": "1 cup",
+            "qty": null,
+            "ingredients": "Water, Barilla Plus Penne^, Tomatoes^, Whipping Cream^, Yellow Onions, Vodka^, Tomato Paste^, Garlic, Canola Oil, Basil, Parmesan Cheese^",
+            "calories": 310,
+            "customAllergens": [],
+            "nutrients": [
+              {
+                "id": null,
+                "name": "Calories",
+                "value": "310",
+                "uom": "kcal",
+                "valueNumeric": "310",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Protein (g)",
+                "value": "12",
+                "uom": "g",
+                "valueNumeric": "12",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Total Carbohydrates (g)",
+                "value": "48",
+                "uom": "g",
+                "valueNumeric": "48",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Sugar (g)",
+                "value": "6",
+                "uom": "g",
+                "valueNumeric": "6",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Total Fat (g)",
+                "value": "8",
+                "uom": "g",
+                "valueNumeric": "8",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Saturated Fat (g)",
+                "value": "3.5",
+                "uom": "g",
+                "valueNumeric": "3.5",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Cholesterol (mg)",
+                "value": "15",
+                "uom": "mg",
+                "valueNumeric": "15",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Dietary Fiber (g)",
+                "value": "8",
+                "uom": "g",
+                "valueNumeric": "8",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Sodium (mg)",
+                "value": "125",
+                "uom": "mg",
+                "valueNumeric": "125",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Potassium (mg)",
+                "value": "530",
+                "uom": "mg",
+                "valueNumeric": "530",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Calcium (mg)",
+                "value": "60",
+                "uom": "mg",
+                "valueNumeric": "60",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Iron (mg)",
+                "value": "0.8",
+                "uom": "mg",
+                "valueNumeric": "0.8",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Trans Fat (g)",
+                "value": "0",
+                "uom": "g",
+                "valueNumeric": "0",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Vitamin D (IU)",
+                "value": "10",
+                "uom": "IU",
+                "valueNumeric": "10",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Vitamin C (mg)",
+                "value": "7",
+                "uom": "mg",
+                "valueNumeric": "7",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Calories From Fat",
+                "value": "70",
+                "uom": "kcal",
+                "valueNumeric": "70",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Vitamin A (RE)",
+                "value": "0+",
+                "uom": "RE",
+                "valueNumeric": "0+",
                 "test": "test"
               },
               {
@@ -342,6 +521,14 @@
               }
             ],
             "filters": [
+              {
+                "id": "67859fb6c625af07639264f0",
+                "name": "Alcohol",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
               {
                 "id": "67859fb5c625af07639264dd",
                 "name": "Garlic",
@@ -367,8 +554,16 @@
                 "customIcons": []
               },
               {
-                "id": "67859fb5c625af07639264e7",
-                "name": "Poultry",
+                "id": "67859fb5c625af07639264da",
+                "name": "Onion",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264df",
+                "name": "Tomato",
                 "icon": false,
                 "remoteFileName": null,
                 "sectorIconId": null,
@@ -383,6 +578,14 @@
                 "customIcons": []
               },
               {
+                "id": "67859fb5c625af07639264d2",
+                "name": "Vegetarian",
+                "icon": true,
+                "remoteFileName": "CHE Vegetarian(1).jpg",
+                "sectorIconId": "182",
+                "customIcons": []
+              },
+              {
                 "id": "67859fb5c625af07639264d4",
                 "name": "Good Source of Protein",
                 "icon": true,
@@ -393,7 +596,7 @@
             ]
           },
           {
-            "id": "69c149ee190d6bcc9884f430",
+            "id": "69c19e4e190d6bcc98079fd4",
             "name": "Blanched Green Beans",
             "mrn": 16207,
             "rev": null,
@@ -572,460 +775,31 @@
             ]
           },
           {
-            "id": "69c149ee190d6bcc9884f417",
-            "name": "Vegan Caribbean Stew",
-            "mrn": 103497,
+            "id": "69c19e4e190d6bcc9807a03c",
+            "name": "Vegan Chicken Tenders",
+            "mrn": 119395,
             "rev": null,
-            "mrnFull": "103497.1",
-            "desc": "Spiced vegetable stew with tomatoes",
+            "mrnFull": "119395.0",
+            "desc": "",
             "webtritionId": null,
             "sortOrder": 4,
-            "portion": "1 cup",
+            "portion": "4 each",
             "qty": null,
-            "ingredients": "Tomatoes^, Sweet Potatoes, Water, Okra, Spanish Onions, Zucchini, Cabbage, Green Bell Peppers, Red Bell Peppers, Lime Juice, Cilantro, Vegetable Base^, Canola Oil, Cayenne Pepper, Ground Ginger^",
-            "calories": 80,
+            "ingredients": "Meatless Breaded Chicken Strips^",
+            "calories": 190,
             "customAllergens": [],
             "nutrients": [
               {
                 "id": null,
                 "name": "Calories",
-                "value": "80",
+                "value": "190",
                 "uom": "kcal",
-                "valueNumeric": "80",
+                "valueNumeric": "190",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Protein (g)",
-                "value": "3",
-                "uom": "g",
-                "valueNumeric": "3",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Total Carbohydrates (g)",
-                "value": "18",
-                "uom": "g",
-                "valueNumeric": "18",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Sugar (g)",
-                "value": "8",
-                "uom": "g",
-                "valueNumeric": "8",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Total Fat (g)",
-                "value": "1",
-                "uom": "g",
-                "valueNumeric": "1",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Saturated Fat (g)",
-                "value": "0",
-                "uom": "g",
-                "valueNumeric": "0",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Cholesterol (mg)",
-                "value": "0",
-                "uom": "mg",
-                "valueNumeric": "0",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Dietary Fiber (g)",
-                "value": "4",
-                "uom": "g",
-                "valueNumeric": "4",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Sodium (mg)",
-                "value": "170",
-                "uom": "mg",
-                "valueNumeric": "170",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Potassium (mg)",
-                "value": "460",
-                "uom": "mg",
-                "valueNumeric": "460",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Calcium (mg)",
-                "value": "70",
-                "uom": "mg",
-                "valueNumeric": "70",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Iron (mg)",
-                "value": "1.4",
-                "uom": "mg",
-                "valueNumeric": "1.4",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Trans Fat (g)",
-                "value": "-",
-                "uom": "g",
-                "valueNumeric": "-",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Vitamin D (IU)",
-                "value": "0",
-                "uom": "IU",
-                "valueNumeric": "0",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Vitamin C (mg)",
-                "value": "45",
-                "uom": "mg",
-                "valueNumeric": "45",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Calories From Fat",
-                "value": "5",
-                "uom": "kcal",
-                "valueNumeric": "5",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Vitamin A (RE)",
-                "value": "0+",
-                "uom": "RE",
-                "valueNumeric": "0+",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Saturated Fat + Trans Fat (g)",
-                "value": "0",
-                "uom": "g",
-                "valueNumeric": "0",
-                "test": "test"
-              }
-            ],
-            "filters": [
-              {
-                "id": "67859fb5c625af07639264e2",
-                "name": "Celery",
-                "icon": false,
-                "remoteFileName": null,
-                "sectorIconId": null,
-                "customIcons": []
-              },
-              {
-                "id": "67859fb5c625af07639264da",
-                "name": "Onion",
-                "icon": false,
-                "remoteFileName": null,
-                "sectorIconId": null,
-                "customIcons": []
-              },
-              {
-                "id": "67859fb5c625af07639264de",
-                "name": "Sulphites",
-                "icon": false,
-                "remoteFileName": null,
-                "sectorIconId": null,
-                "customIcons": []
-              },
-              {
-                "id": "67859fb5c625af07639264df",
-                "name": "Tomato",
-                "icon": false,
-                "remoteFileName": null,
-                "sectorIconId": null,
-                "customIcons": []
-              },
-              {
-                "id": "67859fb5c625af07639264e0",
-                "name": "Vegan",
-                "icon": true,
-                "remoteFileName": "CHE Vegan(1).jpg",
-                "sectorIconId": "181",
-                "customIcons": []
-              },
-              {
-                "id": "67859fb5c625af07639264d2",
-                "name": "Vegetarian",
-                "icon": true,
-                "remoteFileName": "CHE Vegetarian(1).jpg",
-                "sectorIconId": "182",
-                "customIcons": []
-              },
-              {
-                "id": "67859fb5c625af07639264e1",
-                "name": "How Good Friendly",
-                "icon": true,
-                "remoteFileName": "CHE CF.jpg",
-                "sectorIconId": "1503",
-                "customIcons": []
-              }
-            ]
-          },
-          {
-            "id": "69c149ee190d6bcc9884f42c",
-            "name": "Steamed Cauliflower",
-            "mrn": 103873,
-            "rev": null,
-            "mrnFull": "103873.0",
-            "desc": "Steamed Cauliflower ",
-            "webtritionId": null,
-            "sortOrder": 5,
-            "portion": "1/2 cup",
-            "qty": null,
-            "ingredients": "Cauliflower",
-            "calories": 25,
-            "customAllergens": [],
-            "nutrients": [
-              {
-                "id": null,
-                "name": "Calories",
-                "value": "25",
-                "uom": "kcal",
-                "valueNumeric": "25",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Protein (g)",
-                "value": "2",
-                "uom": "g",
-                "valueNumeric": "2",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Total Carbohydrates (g)",
-                "value": "5",
-                "uom": "g",
-                "valueNumeric": "5",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Sugar (g)",
-                "value": "2",
-                "uom": "g",
-                "valueNumeric": "2",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Total Fat (g)",
-                "value": "0",
-                "uom": "g",
-                "valueNumeric": "0",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Saturated Fat (g)",
-                "value": "0",
-                "uom": "g",
-                "valueNumeric": "0",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Cholesterol (mg)",
-                "value": "0",
-                "uom": "mg",
-                "valueNumeric": "0",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Dietary Fiber (g)",
-                "value": "2",
-                "uom": "g",
-                "valueNumeric": "2",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Sodium (mg)",
-                "value": "25",
-                "uom": "mg",
-                "valueNumeric": "25",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Potassium (mg)",
-                "value": "270",
-                "uom": "mg",
-                "valueNumeric": "270",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Calcium (mg)",
-                "value": "20",
-                "uom": "mg",
-                "valueNumeric": "20",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Iron (mg)",
-                "value": "0.4",
-                "uom": "mg",
-                "valueNumeric": "0.4",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Trans Fat (g)",
-                "value": "0",
-                "uom": "g",
-                "valueNumeric": "0",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Vitamin D (IU)",
-                "value": "0",
-                "uom": "IU",
-                "valueNumeric": "0",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Vitamin C (mg)",
-                "value": "44",
-                "uom": "mg",
-                "valueNumeric": "44",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Calories From Fat",
-                "value": "0",
-                "uom": "kcal",
-                "valueNumeric": "0",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Vitamin A (RE)",
-                "value": "-",
-                "uom": "RE",
-                "valueNumeric": "-",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Saturated Fat + Trans Fat (g)",
-                "value": "0",
-                "uom": "g",
-                "valueNumeric": "0",
-                "test": "test"
-              }
-            ],
-            "filters": [
-              {
-                "id": "67859fb5c625af07639264e0",
-                "name": "Vegan",
-                "icon": true,
-                "remoteFileName": "CHE Vegan(1).jpg",
-                "sectorIconId": "181",
-                "customIcons": []
-              },
-              {
-                "id": "67859fb5c625af07639264d2",
-                "name": "Vegetarian",
-                "icon": true,
-                "remoteFileName": "CHE Vegetarian(1).jpg",
-                "sectorIconId": "182",
-                "customIcons": []
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "69c1476c7ca5edd36945d9ae",
-        "name": "Exhibition",
-        "sortOrder": 2,
-        "items": [
-          {
-            "id": "69c149ee190d6bcc9884f423",
-            "name": "Bourbon Sage Glazed Pork Chop",
-            "mrn": 4894,
-            "rev": null,
-            "mrnFull": "4894.1",
-            "desc": "Tender pork chop in a brown sauce of bourbon and sage",
-            "webtritionId": null,
-            "sortOrder": 1,
-            "portion": "1 each",
-            "qty": null,
-            "ingredients": "Water, Pork, Burgundy Cooking Wine^, Bacon^, Tomato Paste^, Bacon Fat, Canola Oil, Bourbon Liquor^, Beef Base^, All Purpose Flour^, Garlic, Sage, Chicken Base^, Bay Leaf",
-            "calories": 370,
-            "customAllergens": [],
-            "nutrients": [
-              {
-                "id": null,
-                "name": "Calories",
-                "value": "370",
-                "uom": "kcal",
-                "valueNumeric": "370",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Protein (g)",
-                "value": "28",
-                "uom": "g",
-                "valueNumeric": "28",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Total Carbohydrates (g)",
-                "value": "5",
-                "uom": "g",
-                "valueNumeric": "5",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Sugar (g)",
-                "value": "less than 1 gram",
-                "uom": "g",
-                "valueNumeric": "1",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Total Fat (g)",
                 "value": "23",
                 "uom": "g",
                 "valueNumeric": "23",
@@ -1033,18 +807,42 @@
               },
               {
                 "id": null,
-                "name": "Saturated Fat (g)",
-                "value": "7",
+                "name": "Total Carbohydrates (g)",
+                "value": "2",
                 "uom": "g",
-                "valueNumeric": "7",
+                "valueNumeric": "2",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Sugar (g)",
+                "value": "1",
+                "uom": "g",
+                "valueNumeric": "1",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Total Fat (g)",
+                "value": "9",
+                "uom": "g",
+                "valueNumeric": "9",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Saturated Fat (g)",
+                "value": "0.5",
+                "uom": "g",
+                "valueNumeric": "0.5",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Cholesterol (mg)",
-                "value": "90",
+                "value": "0",
                 "uom": "mg",
-                "valueNumeric": "90",
+                "valueNumeric": "0",
                 "test": "test"
               },
               {
@@ -1058,38 +856,224 @@
               {
                 "id": null,
                 "name": "Sodium (mg)",
-                "value": "680",
+                "value": "310",
                 "uom": "mg",
-                "valueNumeric": "680",
+                "valueNumeric": "310",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Potassium (mg)",
-                "value": "450",
+                "value": "0",
                 "uom": "mg",
-                "valueNumeric": "450",
+                "valueNumeric": "0",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Calcium (mg)",
-                "value": "30",
+                "value": "0",
                 "uom": "mg",
-                "valueNumeric": "30",
+                "valueNumeric": "0",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Iron (mg)",
-                "value": "1.1",
+                "value": "1.9",
                 "uom": "mg",
-                "valueNumeric": "1.1",
+                "valueNumeric": "1.9",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Trans Fat (g)",
+                "value": "2",
+                "uom": "g",
+                "valueNumeric": "2",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Vitamin D (IU)",
+                "value": "0",
+                "uom": "IU",
+                "valueNumeric": "0",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Vitamin C (mg)",
+                "value": "0",
+                "uom": "mg",
+                "valueNumeric": "0",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Calories From Fat",
+                "value": "80",
+                "uom": "kcal",
+                "valueNumeric": "80",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Vitamin A (RE)",
+                "value": "0",
+                "uom": "RE",
+                "valueNumeric": "0",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Saturated Fat + Trans Fat (g)",
+                "value": "0",
+                "uom": "g",
+                "valueNumeric": "0",
+                "test": "test"
+              }
+            ],
+            "filters": [
+              {
+                "id": "67859fb5c625af07639264d6",
+                "name": "Gluten",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264d8",
+                "name": "MSG*",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264db",
+                "name": "Soy",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264dc",
+                "name": "Wheat",
+                "icon": false,
+                "remoteFileName": null,
+                "sectorIconId": null,
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264e0",
+                "name": "Vegan",
+                "icon": true,
+                "remoteFileName": "CHE Vegan(1).jpg",
+                "sectorIconId": "181",
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264d2",
+                "name": "Vegetarian",
+                "icon": true,
+                "remoteFileName": "CHE Vegetarian(1).jpg",
+                "sectorIconId": "182",
+                "customIcons": []
+              },
+              {
+                "id": "67859fb5c625af07639264d4",
+                "name": "Good Source of Protein",
+                "icon": true,
+                "remoteFileName": "CHE Protein.jpg",
+                "sectorIconId": "1574",
+                "customIcons": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "69c19bc97ca5edd3694a3385",
+        "name": "Exhibition",
+        "sortOrder": 2,
+        "items": [
+          {
+            "id": "69c19e4e190d6bcc9807a047",
+            "name": "Honey Bourbon Pork Loin",
+            "mrn": 6924,
+            "rev": null,
+            "mrnFull": "6924.0",
+            "desc": "Tender Pork Loin roasted with an aromatic southern glaze",
+            "webtritionId": null,
+            "sortOrder": 1,
+            "portion": "4 oz portion",
+            "qty": null,
+            "ingredients": "Pork^, Bourbon Liquor^, Lemon Juice, Yellow Onions, Honey, Dark Brown Sugar^, Less Sodium Gluten Free Soy Sauce^, Lemon, Water, Cornstarch, Canola Oil, Garlic, Ginger Root, Kosher Salt^, Black Pepper",
+            "calories": 200,
+            "customAllergens": [],
+            "nutrients": [
+              {
+                "id": null,
+                "name": "Calories",
+                "value": "200",
+                "uom": "kcal",
+                "valueNumeric": "200",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Protein (g)",
+                "value": "16",
+                "uom": "g",
+                "valueNumeric": "16",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Total Carbohydrates (g)",
+                "value": "12",
+                "uom": "g",
+                "valueNumeric": "12",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Sugar (g)",
+                "value": "9",
+                "uom": "g",
+                "valueNumeric": "9",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Total Fat (g)",
+                "value": "8",
+                "uom": "g",
+                "valueNumeric": "8",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Saturated Fat (g)",
+                "value": "3",
+                "uom": "g",
+                "valueNumeric": "3",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Cholesterol (mg)",
+                "value": "40",
+                "uom": "mg",
+                "valueNumeric": "40",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Dietary Fiber (g)",
                 "value": "0",
                 "uom": "g",
                 "valueNumeric": "0",
@@ -1097,26 +1081,66 @@
               },
               {
                 "id": null,
+                "name": "Sodium (mg)",
+                "value": "430",
+                "uom": "mg",
+                "valueNumeric": "430",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Potassium (mg)",
+                "value": "410",
+                "uom": "mg",
+                "valueNumeric": "410",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Calcium (mg)",
+                "value": "10",
+                "uom": "mg",
+                "valueNumeric": "10",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Iron (mg)",
+                "value": "0.7",
+                "uom": "mg",
+                "valueNumeric": "0.7",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Trans Fat (g)",
+                "value": "-",
+                "uom": "g",
+                "valueNumeric": "-",
+                "test": "test"
+              },
+              {
+                "id": null,
                 "name": "Vitamin D (IU)",
-                "value": "35",
+                "value": "5",
                 "uom": "IU",
-                "valueNumeric": "35",
+                "valueNumeric": "5",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Vitamin C (mg)",
-                "value": "1",
+                "value": "6+",
                 "uom": "mg",
-                "valueNumeric": "1",
+                "valueNumeric": "6+",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Calories From Fat",
-                "value": "210",
+                "value": "70",
                 "uom": "kcal",
-                "valueNumeric": "210",
+                "valueNumeric": "70",
                 "test": "test"
               },
               {
@@ -1146,22 +1170,6 @@
                 "customIcons": []
               },
               {
-                "id": "67859fb5c625af07639264e4",
-                "name": "Beef",
-                "icon": false,
-                "remoteFileName": null,
-                "sectorIconId": null,
-                "customIcons": []
-              },
-              {
-                "id": "67859fb5c625af07639264d5",
-                "name": "Celery*",
-                "icon": false,
-                "remoteFileName": null,
-                "sectorIconId": null,
-                "customIcons": []
-              },
-              {
                 "id": "67859fb5c625af07639264dd",
                 "name": "Garlic",
                 "icon": false,
@@ -1170,16 +1178,16 @@
                 "customIcons": []
               },
               {
-                "id": "67859fb5c625af07639264d6",
-                "name": "Gluten",
+                "id": "67859fb5c625af07639264eb",
+                "name": "Gluten*",
                 "icon": false,
                 "remoteFileName": null,
                 "sectorIconId": null,
                 "customIcons": []
               },
               {
-                "id": "67859fb5c625af07639264d9",
-                "name": "Mustard*",
+                "id": "67859fb5c625af07639264da",
+                "name": "Onion",
                 "icon": false,
                 "remoteFileName": null,
                 "sectorIconId": null,
@@ -1194,14 +1202,6 @@
                 "customIcons": []
               },
               {
-                "id": "67859fb5c625af07639264e7",
-                "name": "Poultry",
-                "icon": false,
-                "remoteFileName": null,
-                "sectorIconId": null,
-                "customIcons": []
-              },
-              {
                 "id": "67859fb5c625af07639264db",
                 "name": "Soy",
                 "icon": false,
@@ -1210,24 +1210,8 @@
                 "customIcons": []
               },
               {
-                "id": "67859fb5c625af07639264de",
-                "name": "Sulphites",
-                "icon": false,
-                "remoteFileName": null,
-                "sectorIconId": null,
-                "customIcons": []
-              },
-              {
-                "id": "67859fb5c625af07639264df",
-                "name": "Tomato",
-                "icon": false,
-                "remoteFileName": null,
-                "sectorIconId": null,
-                "customIcons": []
-              },
-              {
-                "id": "67859fb5c625af07639264dc",
-                "name": "Wheat",
+                "id": "67859fb6c625af07639264f5",
+                "name": "Wheat*",
                 "icon": false,
                 "remoteFileName": null,
                 "sectorIconId": null,
@@ -1244,79 +1228,31 @@
             ]
           },
           {
-            "id": "69c149ee190d6bcc9884f427",
-            "name": "Mashed Potatoes",
-            "mrn": 103326,
+            "id": "69c19e4e190d6bcc9807a04c",
+            "name": "Roasted Potatoes",
+            "mrn": 106424,
             "rev": null,
-            "mrnFull": "103326.0",
-            "desc": "Creamy mashed potatoes with butter,shallots, and garlic",
+            "mrnFull": "106424.0",
+            "desc": "Roasted Red Bliss Potatoes",
             "webtritionId": null,
             "sortOrder": 2,
-            "portion": "3/4 cup",
+            "portion": "4 ounce",
             "qty": null,
-            "ingredients": "Potatoes, Half & Half^, Unsalted Butter, Olive Oil, Parsley, Shallots, Garlic, Kosher Salt^, White Pepper",
-            "calories": 260,
+            "ingredients": "Red Bliss Potatoes, Canola Oil, Kosher Salt^, Cooking Oil Spray^, Black Pepper",
+            "calories": 120,
             "customAllergens": [],
             "nutrients": [
               {
                 "id": null,
                 "name": "Calories",
-                "value": "260",
+                "value": "120",
                 "uom": "kcal",
-                "valueNumeric": "260",
+                "valueNumeric": "120",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Protein (g)",
-                "value": "4",
-                "uom": "g",
-                "valueNumeric": "4",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Total Carbohydrates (g)",
-                "value": "36",
-                "uom": "g",
-                "valueNumeric": "36",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Sugar (g)",
-                "value": "3+",
-                "uom": "g",
-                "valueNumeric": "3+",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Total Fat (g)",
-                "value": "12",
-                "uom": "g",
-                "valueNumeric": "12",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Saturated Fat (g)",
-                "value": "5",
-                "uom": "g",
-                "valueNumeric": "5",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Cholesterol (mg)",
-                "value": "20",
-                "uom": "mg",
-                "valueNumeric": "20",
-                "test": "test"
-              },
-              {
-                "id": null,
-                "name": "Dietary Fiber (g)",
                 "value": "3",
                 "uom": "g",
                 "valueNumeric": "3",
@@ -1324,50 +1260,98 @@
               },
               {
                 "id": null,
-                "name": "Sodium (mg)",
-                "value": "260",
+                "name": "Total Carbohydrates (g)",
+                "value": "22",
+                "uom": "g",
+                "valueNumeric": "22",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Sugar (g)",
+                "value": "2",
+                "uom": "g",
+                "valueNumeric": "2",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Total Fat (g)",
+                "value": "3",
+                "uom": "g",
+                "valueNumeric": "3",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Saturated Fat (g)",
+                "value": "0",
+                "uom": "g",
+                "valueNumeric": "0",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Cholesterol (mg)",
+                "value": "0",
                 "uom": "mg",
-                "valueNumeric": "260",
+                "valueNumeric": "0",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Dietary Fiber (g)",
+                "value": "2",
+                "uom": "g",
+                "valueNumeric": "2",
+                "test": "test"
+              },
+              {
+                "id": null,
+                "name": "Sodium (mg)",
+                "value": "150",
+                "uom": "mg",
+                "valueNumeric": "150",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Potassium (mg)",
-                "value": "600",
+                "value": "620",
                 "uom": "mg",
-                "valueNumeric": "600",
+                "valueNumeric": "620",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Calcium (mg)",
-                "value": "40",
+                "value": "10",
                 "uom": "mg",
-                "valueNumeric": "40",
+                "valueNumeric": "10",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Iron (mg)",
-                "value": "0.7",
+                "value": "0.8",
                 "uom": "mg",
-                "valueNumeric": "0.7",
+                "valueNumeric": "0.8",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Trans Fat (g)",
-                "value": "-",
+                "value": "0",
                 "uom": "g",
-                "valueNumeric": "-",
+                "valueNumeric": "0",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Vitamin D (IU)",
-                "value": "0",
+                "value": "0+",
                 "uom": "IU",
-                "valueNumeric": "0",
+                "valueNumeric": "0+",
                 "test": "test"
               },
               {
@@ -1381,51 +1365,43 @@
               {
                 "id": null,
                 "name": "Calories From Fat",
-                "value": "100",
+                "value": "25",
                 "uom": "kcal",
-                "valueNumeric": "100",
+                "valueNumeric": "25",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Vitamin A (RE)",
-                "value": "-",
+                "value": "0+",
                 "uom": "RE",
-                "valueNumeric": "-",
+                "valueNumeric": "0+",
                 "test": "test"
               },
               {
                 "id": null,
                 "name": "Saturated Fat + Trans Fat (g)",
-                "value": "5",
+                "value": "0",
                 "uom": "g",
-                "valueNumeric": "5",
+                "valueNumeric": "0",
                 "test": "test"
               }
             ],
             "filters": [
               {
-                "id": "67859fb5c625af07639264dd",
-                "name": "Garlic",
+                "id": "67859fb5c625af07639264db",
+                "name": "Soy",
                 "icon": false,
                 "remoteFileName": null,
                 "sectorIconId": null,
                 "customIcons": []
               },
               {
-                "id": "67859fb5c625af07639264d7",
-                "name": "Milk",
-                "icon": false,
-                "remoteFileName": null,
-                "sectorIconId": null,
-                "customIcons": []
-              },
-              {
-                "id": "67859fb5c625af07639264da",
-                "name": "Onion",
-                "icon": false,
-                "remoteFileName": null,
-                "sectorIconId": null,
+                "id": "67859fb5c625af07639264e0",
+                "name": "Vegan",
+                "icon": true,
+                "remoteFileName": "CHE Vegan(1).jpg",
+                "sectorIconId": "181",
                 "customIcons": []
               },
               {
@@ -1447,7 +1423,7 @@
             ]
           },
           {
-            "id": "69c149ee190d6bcc9884f434",
+            "id": "69c19e4e190d6bcc98079fda",
             "name": "Zucchini and Squash Blend",
             "mrn": 1698,
             "rev": null,
@@ -1626,7 +1602,7 @@
             ]
           },
           {
-            "id": "69c149ee190d6bcc9884f488",
+            "id": "69c19e4e190d6bcc9807a032",
             "name": "Garden Salad",
             "mrn": 28513,
             "rev": null,
@@ -1805,7 +1781,7 @@
             ]
           },
           {
-            "id": "69c149ee190d6bcc9884f40d",
+            "id": "69c19e4e190d6bcc98079fcf",
             "name": "Pan Rolls",
             "mrn": 47482,
             "rev": null,
@@ -2010,18 +1986,18 @@
         ]
       },
       {
-        "id": "69c1476c7ca5edd36945d9b1",
+        "id": "69c19bc97ca5edd3694a3388",
         "name": "Grill",
         "sortOrder": 2,
         "items": []
       },
       {
-        "id": "69c1476c7ca5edd36945d9aa",
+        "id": "69c19bc87ca5edd3694a3381",
         "name": "Daily Grill",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69c149ed190d6bcc9884e62a",
+            "id": "69c19e4d190d6bcc980792e5",
             "name": "French Fries",
             "mrn": 8414,
             "rev": null,
@@ -2183,7 +2159,7 @@
             "filters": []
           },
           {
-            "id": "69c149ed190d6bcc9884e639",
+            "id": "69c19e4d190d6bcc980792f5",
             "name": "Chicago Hot Dog",
             "mrn": 18705,
             "rev": null,
@@ -2442,7 +2418,7 @@
             ]
           },
           {
-            "id": "69c149ed190d6bcc9884e615",
+            "id": "69c19e4d190d6bcc980792cf",
             "name": "Fried Chicken Sandwich",
             "mrn": 5243,
             "rev": null,
@@ -2671,12 +2647,12 @@
         ]
       },
       {
-        "id": "69c1476c7ca5edd36945d9ab",
+        "id": "69c19bc87ca5edd3694a3382",
         "name": "Grill Condiments",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69c149ed190d6bcc9884e626",
+            "id": "69c19e4d190d6bcc980792e2",
             "name": "Lettuce Leaf",
             "mrn": 14957,
             "rev": null,
@@ -2855,7 +2831,7 @@
             ]
           },
           {
-            "id": "69c149ed190d6bcc9884e623",
+            "id": "69c19e4d190d6bcc980792dc",
             "name": "Sliced Tomatoes",
             "mrn": 47955,
             "rev": null,
@@ -3042,7 +3018,7 @@
             ]
           },
           {
-            "id": "69c149ed190d6bcc9884e61f",
+            "id": "69c19e4d190d6bcc980792d8",
             "name": "Dill Pickle Slices",
             "mrn": 63438,
             "rev": null,
@@ -3237,7 +3213,7 @@
             ]
           },
           {
-            "id": "69c149ed190d6bcc9884e61b",
+            "id": "69c19e4d190d6bcc980792d4",
             "name": "Sliced Red Onion",
             "mrn": 14918,
             "rev": null,
@@ -3426,12 +3402,12 @@
         ]
       },
       {
-        "id": "69c1476c7ca5edd36945d9af",
+        "id": "69c19bc97ca5edd3694a3386",
         "name": "Pizza CCS",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69c149ee190d6bcc9884f43d",
+            "id": "69c19e4e190d6bcc98079fe5",
             "name": "Cheese Pizza",
             "mrn": 103574,
             "rev": null,
@@ -3674,7 +3650,7 @@
             ]
           },
           {
-            "id": "69c149ee190d6bcc9884f439",
+            "id": "69c19e4e190d6bcc98079fe1",
             "name": "Pepperoni Pizza",
             "mrn": 103896,
             "rev": null,
@@ -3941,7 +3917,7 @@
             ]
           },
           {
-            "id": "69c149ee190d6bcc9884f44e",
+            "id": "69c19e4e190d6bcc98079ff7",
             "name": "Vegetable Pizza",
             "mrn": 1387,
             "rev": null,
@@ -4160,7 +4136,7 @@
             ]
           },
           {
-            "id": "69c149ee190d6bcc9884f446",
+            "id": "69c19e4e190d6bcc98079fee",
             "name": "Crushed Red Pepper",
             "mrn": 63317,
             "rev": null,
@@ -4339,7 +4315,7 @@
             ]
           },
           {
-            "id": "69c149ee190d6bcc9884f441",
+            "id": "69c19e4e190d6bcc98079fe9",
             "name": "Dried Oregano",
             "mrn": 76771,
             "rev": null,
@@ -4518,7 +4494,7 @@
             ]
           },
           {
-            "id": "69c149ee190d6bcc9884f44b",
+            "id": "69c19e4e190d6bcc98079ff3",
             "name": "Grated Parmesan Cheese",
             "mrn": 62346,
             "rev": null,
@@ -4699,12 +4675,12 @@
         ]
       },
       {
-        "id": "69c1476c7ca5edd36945d9b0",
+        "id": "69c19bc97ca5edd3694a3387",
         "name": "Pasta CCS",
         "sortOrder": 2,
         "items": [
           {
-            "id": "69c149ee190d6bcc9884f47f",
+            "id": "69c19e4e190d6bcc9807a028",
             "name": "Crostini",
             "mrn": 8286,
             "rev": null,
@@ -4915,7 +4891,7 @@
             ]
           },
           {
-            "id": "69c149ee190d6bcc9884f483",
+            "id": "69c19e4e190d6bcc9807a02e",
             "name": "Baked Pasta Al Forno",
             "mrn": 40405,
             "rev": null,
@@ -5147,8 +5123,8 @@
   },
   "closedOnDate": false,
   "status": {
-    "label": "open",
-    "message": "Open. Closes at 4:30pm.",
-    "color": "green"
+    "label": "closed",
+    "message": "Closed. Opens in 29 minutes.",
+    "color": "orange"
   }
 }

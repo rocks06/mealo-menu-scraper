@@ -8,7 +8,7 @@
       "sortOrder": 2,
       "items": [
         {
-          "id": "69c149ed190d6bcc9884e636",
+          "id": "69c19e4d190d6bcc980792f0",
           "name": "Chef's Choice",
           "portion": "1 tsp",
           "ingredients": "Water",
@@ -28,18 +28,38 @@
       "sortOrder": 2,
       "items": [
         {
-          "id": "69c149ee190d6bcc9884f41e",
-          "name": "Grilled Chicken Alfredo",
-          "portion": "8 ounce",
-          "ingredients": "Chicken Breast^, Fettuccine^, Whole Milk^, Whipping Cream^, Parmesan Cheese^, Unsalted Butter, Canola Oil, All Purpose Flour^, Parmesan Cheese^, Kosher Salt^, Parsley, Garlic, Black Pepper, White Pepper",
-          "calories": 450,
+          "id": "69c19e4e190d6bcc9807a037",
+          "name": "Grilled Chicken Breast",
+          "portion": "1 each",
+          "ingredients": "Chicken Breast^, Canola Oil, Kosher Salt^, Black Pepper",
+          "calories": 100,
           "macros": {
-            "protein_g": 42,
-            "carbs_g": 41,
-            "fat_g": 13
+            "protein_g": 16,
+            "carbs_g": 0,
+            "fat_g": 4
           },
           "allergens": [],
           "tags": [
+            "[object Object]",
+            "[object Object]"
+          ]
+        },
+        {
+          "id": "69c19e4e190d6bcc9807a041",
+          "name": "Penne Pasta ala Vodka",
+          "portion": "1 cup",
+          "ingredients": "Water, Barilla Plus Penne^, Tomatoes^, Whipping Cream^, Yellow Onions, Vodka^, Tomato Paste^, Garlic, Canola Oil, Basil, Parmesan Cheese^",
+          "calories": 310,
+          "macros": {
+            "protein_g": 12,
+            "carbs_g": 48,
+            "fat_g": 8
+          },
+          "allergens": [],
+          "tags": [
+            "[object Object]",
+            "[object Object]",
+            "[object Object]",
             "[object Object]",
             "[object Object]",
             "[object Object]",
@@ -49,7 +69,7 @@
           ]
         },
         {
-          "id": "69c149ee190d6bcc9884f430",
+          "id": "69c19e4e190d6bcc98079fd4",
           "name": "Blanched Green Beans",
           "portion": "1/2 cup",
           "ingredients": "Water, Water, Green Beans, Kosher Salt^",
@@ -66,15 +86,15 @@
           ]
         },
         {
-          "id": "69c149ee190d6bcc9884f417",
-          "name": "Vegan Caribbean Stew",
-          "portion": "1 cup",
-          "ingredients": "Tomatoes^, Sweet Potatoes, Water, Okra, Spanish Onions, Zucchini, Cabbage, Green Bell Peppers, Red Bell Peppers, Lime Juice, Cilantro, Vegetable Base^, Canola Oil, Cayenne Pepper, Ground Ginger^",
-          "calories": 80,
+          "id": "69c19e4e190d6bcc9807a03c",
+          "name": "Vegan Chicken Tenders",
+          "portion": "4 each",
+          "ingredients": "Meatless Breaded Chicken Strips^",
+          "calories": 190,
           "macros": {
-            "protein_g": 3,
-            "carbs_g": 18,
-            "fat_g": 1
+            "protein_g": 23,
+            "carbs_g": 2,
+            "fat_g": 9
           },
           "allergens": [],
           "tags": [
@@ -83,23 +103,6 @@
             "[object Object]",
             "[object Object]",
             "[object Object]",
-            "[object Object]",
-            "[object Object]"
-          ]
-        },
-        {
-          "id": "69c149ee190d6bcc9884f42c",
-          "name": "Steamed Cauliflower",
-          "portion": "1/2 cup",
-          "ingredients": "Cauliflower",
-          "calories": 25,
-          "macros": {
-            "protein_g": 2,
-            "carbs_g": 5,
-            "fat_g": 0
-          },
-          "allergens": [],
-          "tags": [
             "[object Object]",
             "[object Object]"
           ]
@@ -111,23 +114,18 @@
       "sortOrder": 2,
       "items": [
         {
-          "id": "69c149ee190d6bcc9884f423",
-          "name": "Bourbon Sage Glazed Pork Chop",
-          "portion": "1 each",
-          "ingredients": "Water, Pork, Burgundy Cooking Wine^, Bacon^, Tomato Paste^, Bacon Fat, Canola Oil, Bourbon Liquor^, Beef Base^, All Purpose Flour^, Garlic, Sage, Chicken Base^, Bay Leaf",
-          "calories": 370,
+          "id": "69c19e4e190d6bcc9807a047",
+          "name": "Honey Bourbon Pork Loin",
+          "portion": "4 oz portion",
+          "ingredients": "Pork^, Bourbon Liquor^, Lemon Juice, Yellow Onions, Honey, Dark Brown Sugar^, Less Sodium Gluten Free Soy Sauce^, Lemon, Water, Cornstarch, Canola Oil, Garlic, Ginger Root, Kosher Salt^, Black Pepper",
+          "calories": 200,
           "macros": {
-            "protein_g": 28,
-            "carbs_g": 5,
-            "fat_g": 23
+            "protein_g": 16,
+            "carbs_g": 12,
+            "fat_g": 8
           },
           "allergens": [],
           "tags": [
-            "[object Object]",
-            "[object Object]",
-            "[object Object]",
-            "[object Object]",
-            "[object Object]",
             "[object Object]",
             "[object Object]",
             "[object Object]",
@@ -139,19 +137,18 @@
           ]
         },
         {
-          "id": "69c149ee190d6bcc9884f427",
-          "name": "Mashed Potatoes",
-          "portion": "3/4 cup",
-          "ingredients": "Potatoes, Half & Half^, Unsalted Butter, Olive Oil, Parsley, Shallots, Garlic, Kosher Salt^, White Pepper",
-          "calories": 260,
+          "id": "69c19e4e190d6bcc9807a04c",
+          "name": "Roasted Potatoes",
+          "portion": "4 ounce",
+          "ingredients": "Red Bliss Potatoes, Canola Oil, Kosher Salt^, Cooking Oil Spray^, Black Pepper",
+          "calories": 120,
           "macros": {
-            "protein_g": 4,
-            "carbs_g": 36,
-            "fat_g": 12
+            "protein_g": 3,
+            "carbs_g": 22,
+            "fat_g": 3
           },
           "allergens": [],
           "tags": [
-            "[object Object]",
             "[object Object]",
             "[object Object]",
             "[object Object]",
@@ -159,7 +156,7 @@
           ]
         },
         {
-          "id": "69c149ee190d6bcc9884f434",
+          "id": "69c19e4e190d6bcc98079fda",
           "name": "Zucchini and Squash Blend",
           "portion": "1/2 cup",
           "ingredients": "Yellow Squash, Zucchini, Margarine^, Basil",
@@ -176,7 +173,7 @@
           ]
         },
         {
-          "id": "69c149ee190d6bcc9884f488",
+          "id": "69c19e4e190d6bcc9807a032",
           "name": "Garden Salad",
           "portion": "1 serving(s)",
           "ingredients": "Chopped Lettuce, Cucumber",
@@ -193,7 +190,7 @@
           ]
         },
         {
-          "id": "69c149ee190d6bcc9884f40d",
+          "id": "69c19e4e190d6bcc98079fcf",
           "name": "Pan Rolls",
           "portion": "1 each",
           "ingredients": "All Purpose Flour^, Water, High Gluten Flour^, Water, Sugar, Margarine^, Unsalted Butter, Whole Dry Milk^, Active Yeast^, Salt, Cooking Oil Spray^",
@@ -224,7 +221,7 @@
       "sortOrder": 2,
       "items": [
         {
-          "id": "69c149ed190d6bcc9884e62a",
+          "id": "69c19e4d190d6bcc980792e5",
           "name": "French Fries",
           "portion": "1/2 cup",
           "ingredients": "French Fries^",
@@ -238,7 +235,7 @@
           "tags": []
         },
         {
-          "id": "69c149ed190d6bcc9884e639",
+          "id": "69c19e4d190d6bcc980792f5",
           "name": "Chicago Hot Dog",
           "portion": "1 sandwich",
           "ingredients": "Beef Hot Dog^, Hoagie Roll^, Tomatoes, Yellow Onions, Pickles^, Pepperoncini^, Yellow Mustard^, Pickle Relish^, Celery Salt^",
@@ -265,7 +262,7 @@
           ]
         },
         {
-          "id": "69c149ed190d6bcc9884e615",
+          "id": "69c19e4d190d6bcc980792cf",
           "name": "Fried Chicken Sandwich",
           "portion": "1 each",
           "ingredients": "Chicken Breast^, Hamburger Bun^, Cracker Meal^, Tomatoes, Leaf Lettuce, Whole Milk^, Liquid Egg^, All Purpose Flour^",
@@ -294,7 +291,7 @@
       "sortOrder": 2,
       "items": [
         {
-          "id": "69c149ed190d6bcc9884e626",
+          "id": "69c19e4d190d6bcc980792e2",
           "name": "Lettuce Leaf",
           "portion": "1 each",
           "ingredients": "Lettuce Leaf",
@@ -311,7 +308,7 @@
           ]
         },
         {
-          "id": "69c149ed190d6bcc9884e623",
+          "id": "69c19e4d190d6bcc980792dc",
           "name": "Sliced Tomatoes",
           "portion": "2 slice",
           "ingredients": "Tomatoes",
@@ -329,7 +326,7 @@
           ]
         },
         {
-          "id": "69c149ed190d6bcc9884e61f",
+          "id": "69c19e4d190d6bcc980792d8",
           "name": "Dill Pickle Slices",
           "portion": "4 each",
           "ingredients": "Pickles^",
@@ -348,7 +345,7 @@
           ]
         },
         {
-          "id": "69c149ed190d6bcc9884e61b",
+          "id": "69c19e4d190d6bcc980792d4",
           "name": "Sliced Red Onion",
           "portion": "1 slice",
           "ingredients": "Red Onions",
@@ -372,7 +369,7 @@
       "sortOrder": 2,
       "items": [
         {
-          "id": "69c149ee190d6bcc9884f43d",
+          "id": "69c19e4e190d6bcc98079fe5",
           "name": "Cheese Pizza",
           "portion": "1 slice",
           "ingredients": "Pizza Dough^, Part Skim Mozzarella Cheese^, Tomatoes^, Canola Oil, Parmesan Cheese^, Kosher Salt^, Garlic, Garlic, Basil, Black Pepper, Basil, Parsley, Oregano, Red Pepper",
@@ -397,7 +394,7 @@
           ]
         },
         {
-          "id": "69c149ee190d6bcc9884f439",
+          "id": "69c19e4e190d6bcc98079fe1",
           "name": "Pepperoni Pizza",
           "portion": "1 slice",
           "ingredients": "Pizza Dough^, Part Skim Mozzarella Cheese^, Tomatoes^, Pepperoni^, Canola Oil, Parmesan Cheese^, Kosher Salt^, Garlic, Garlic, Basil, Black Pepper, Basil, Parsley, Oregano, Red Pepper",
@@ -425,7 +422,7 @@
           ]
         },
         {
-          "id": "69c149ee190d6bcc9884f44e",
+          "id": "69c19e4e190d6bcc98079ff7",
           "name": "Vegetable Pizza",
           "portion": "1 slice",
           "ingredients": "Pizza Dough^, Tomatoes^, Parmesan Cheese^, Part Skim Mozzarella Cheese^, Green Bell Peppers, Mushrooms, Yellow Onions, Canola Oil, Kosher Salt^, Basil, Garlic, Black Pepper",
@@ -447,7 +444,7 @@
           ]
         },
         {
-          "id": "69c149ee190d6bcc9884f446",
+          "id": "69c19e4e190d6bcc98079fee",
           "name": "Crushed Red Pepper",
           "portion": "1 tsp",
           "ingredients": "Red Pepper",
@@ -464,7 +461,7 @@
           ]
         },
         {
-          "id": "69c149ee190d6bcc9884f441",
+          "id": "69c19e4e190d6bcc98079fe9",
           "name": "Dried Oregano",
           "portion": "1 tsp",
           "ingredients": "Oregano",
@@ -481,7 +478,7 @@
           ]
         },
         {
-          "id": "69c149ee190d6bcc9884f44b",
+          "id": "69c19e4e190d6bcc98079ff3",
           "name": "Grated Parmesan Cheese",
           "portion": "1 tsp",
           "ingredients": "Parmesan Cheese^",
@@ -504,7 +501,7 @@
       "sortOrder": 2,
       "items": [
         {
-          "id": "69c149ee190d6bcc9884f47f",
+          "id": "69c19e4e190d6bcc9807a028",
           "name": "Crostini",
           "portion": "1 slice",
           "ingredients": "French Bread^, Canola Oil",
@@ -525,7 +522,7 @@
           ]
         },
         {
-          "id": "69c149ee190d6bcc9884f483",
+          "id": "69c19e4e190d6bcc9807a02e",
           "name": "Baked Pasta Al Forno",
           "portion": "8 ounce",
           "ingredients": "Water, No Added Salt Tomatoes^, Whole Milk^, Barilla Plus Penne^, Ground Turkey, Unsalted Butter, Yellow Onions, All Purpose Flour^, Canola Oil, Sugar, Parsley, Kosher Salt^, Garlic, Basil, Oregano, Black Pepper, Thyme, Nutmeg",
